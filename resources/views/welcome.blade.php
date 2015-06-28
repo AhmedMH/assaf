@@ -1,5 +1,7 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:og="http://ogp.me/ns#"
+      xmlns:fb="https://www.facebook.com/2008/fbml">
   <head>
     <!-- Basic Page Needs
     ================================================== -->
@@ -10,6 +12,10 @@
     <meta name="description" content="Assaf is a training center">
     <meta name="keywords" content="traingin center, embedded systems, web developmemt">
     <meta name="author" content="ahmedhamed.net">
+    <meta property="og:image" content="img/01.jpg"/>
+    <meta property="og:title" content="Assaf"/>
+    <meta property="og:description" content="Assaf is a training center"/>
+
 
     <!-- Favicons
     ================================================== -->
