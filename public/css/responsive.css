@@ -5,7 +5,7 @@
 }
 
 @media (max-width: 603px){
-#tf-menu.navbar-default {
+#tf-menu .navbar-collapse {
 	background-color: rgba(0, 0, 0, 0.79);
 	}
 #tf-works li.pull-right, #tf-works li.pull-left {

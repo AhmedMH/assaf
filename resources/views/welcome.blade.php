@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <!--[if IE]><meta http-equiv="x-ua-compatible" content="IE=9" /><![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Spirit8 - Digital Agency One Page Template</title>
+    <title>Assaf</title>
     <meta name="description" content="Spirit8 is a Digital agency one page template built based on bootstrap framework. This template is design by Robert Berki and coded by Jenn Pereira. It is simple, mobile responsive, perfect for portfolio and agency websites. Get this for free exclusively at ThemeForces.com">
     <meta name="keywords" content="bootstrap theme, portfolio template, digital agency, onepage, mobile responsive, spirit8, free website, free theme, themeforces themes, themeforces wordpress themes, themeforces bootstrap theme">
     <meta name="author" content="ThemeForces.com">
@@ -19,6 +19,7 @@
     <link rel="apple-touch-icon" sizes="114x114" href="img/apple-touch-icon-114x114.png">
 
     <!-- Bootstrap -->
+    <link rel="stylesheet" type="text/css"  href="{{ asset('/css/bootstrap.css') }}">
     <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.css">
 
     <!-- Slider
@@ -30,7 +31,7 @@
     ================================================== -->
     <link rel="stylesheet" type="text/css"  href="css/style.css">
     <link rel="stylesheet" type="text/css" href="css/responsive.css">
-    <link rel="stylesheet" type="text/css"  href="{{ asset('/css/charge-blue.min.css') }}">
+    <link rel="stylesheet" type="text/css" href="css/animate.css">
 
     <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,700,300,600,800,400' rel='stylesheet' type='text/css'>
@@ -69,7 +70,11 @@
             <li><a href="#tf-services" class="page-scroll">Services</a></li>
             <li><a href="#tf-works" class="page-scroll">Portfolio</a></li>
             <li><a href="#tf-testimonials" class="page-scroll">Testimonials</a></li>
+            <li><a href="#tf-find" class="page-scroll">Find Us</a></li>
             <li><a href="#tf-contact" class="page-scroll">Contact</a></li>
+            <li><button type="button" class="btn btn-warning btn-lg btn-block">
+              Register
+            </button></li>
           </ul>
         </div><!-- /.navbar-collapse -->
       </div><!-- /.container-fluid -->
@@ -80,9 +85,31 @@
     <div id="tf-home" class="text-center">
         <div class="overlay">
             <div class="content">
-                <h1>Welcome on <strong><span class="color">Spirit8</span></strong></h1>
-                <p class="lead">We are a digital agency with <strong>years of experience</strong> and with <strong>extraordinary people</strong></p>
-                <a href="#tf-about" class="fa fa-angle-down page-scroll"></a>
+                <h1 id="fall" class="wow bounceInDown animated " data-wow-delay="1s">Welcome to <strong class="color">Assaf</strong></h1>
+
+                .<div class="container">
+
+                    <div class="col-md-8 col-md-offset-2">
+                      <div class="slider" class="owl-carousel owl-theme lead">
+                          <div class="item">
+                              <h5>This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</h5>
+                              <p><strong>Dean Martin</strong>, CEO Acme Inc.</p>
+                          </div>
+
+                          <div class="item">
+                              <h5>This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</h5>
+                              <p><strong>Dean Martin</strong>, CEO Acme Inc.</p>
+                          </div>
+
+                          <div class="item">
+                              <h5>This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</h5>
+                              <p><strong>Dean Martin</strong>, CEO Acme Inc.</p>
+                          </div>
+                  </div>
+                </div>
+              </div>
+                <!-- <p class="lead">We are a digital agency with <strong>years of experience</strong> and with <strong>extraordinary people</strong></p> -->
+                <div><a href="#tf-about" class="fa fa-angle-down page-scroll"></a></div>
             </div>
         </div>
     </div>
@@ -92,10 +119,10 @@
     <div id="tf-about">
         <div class="container">
             <div class="row">
-                <div class="col-md-6">
-                    <img src="img/02.png" class="img-responsive">
+                <div class="col-md-6 wow bounceInLeft animated">
+                    <img  style="margin-bottom:20px;" src="http://lorempixel.com/600/350/technics/" class="img-responsive">
                 </div>
-                <div class="col-md-6">
+                <div class="col-md-6 wow fadeInUpBig animated">
                     <div class="about-text">
                         <div class="section-title">
                             <h4>About us</h4>
@@ -105,15 +132,15 @@
                         </div>
                         <p class="intro">We love building and rebuilding brands through our  specific skills. Using colour, fonts, and illustration, we brand companies in a way they will never forget.</p>
                         <ul class="about-list">
-                            <li>
+                            <li  class="wow bounceInRight animated" >
                                 <span class="fa fa-dot-circle-o"></span>
                                 <strong>Mission</strong> - <em>We deliver uniqueness and quality</em>
                             </li>
-                            <li>
+                            <li  class="wow bounceInRight animated" >
                                 <span class="fa fa-dot-circle-o"></span>
                                 <strong>Skills</strong> - <em>Delivering fast and excellent results</em>
                             </li>
-                            <li>
+                            <li  class="wow bounceInRight animated" >
                                 <span class="fa fa-dot-circle-o"></span>
                                 <strong>Clients</strong> - <em>Satisfied clients thanks to our experience</em>
                             </li>
@@ -139,8 +166,8 @@
                 <div id="team" class="owl-carousel owl-theme row">
                     <div class="item">
                         <div class="thumbnail">
-                            <img src="img/team/01.jpg" alt="..." class="img-circle team-img">
-                            <div class="caption">
+                            <img src="img/team/01.jpg" alt="..." class="img-circle team-img wow animated zoomIn">
+                            <div class=" caption wow animated bounceInUp">
                                 <h3>Jenn Gwapa</h3>
                                 <p>CEO / Founder</p>
                                 <p>Do not seek to change what has come before. Seek to create that which has not.</p>
@@ -150,8 +177,8 @@
 
                     <div class="item">
                         <div class="thumbnail">
-                            <img src="img/team/02.jpg" alt="..." class="img-circle team-img">
-                            <div class="caption">
+                            <img src="img/team/02.jpg" alt="..." class="img-circle team-img wow animated zoomIn">
+                            <div class=" caption wow animated bounceInUp">
                                 <h3>Jenn Gwapa</h3>
                                 <p>CEO / Founder</p>
                                 <p>Do not seek to change what has come before. Seek to create that which has not.</p>
@@ -161,8 +188,8 @@
 
                     <div class="item">
                         <div class="thumbnail">
-                            <img src="img/team/03.jpg" alt="..." class="img-circle team-img">
-                            <div class="caption">
+                            <img src="img/team/03.jpg" alt="..." class="img-circle team-img wow animated zoomIn">
+                            <div class=" caption wow animated bounceInUp">
                                 <h3>Jenn Gwapa</h3>
                                 <p>CEO / Founder</p>
                                 <p>Do not seek to change what has come before. Seek to create that which has not.</p>
@@ -172,8 +199,8 @@
 
                     <div class="item">
                         <div class="thumbnail">
-                            <img src="img/team/04.jpg" alt="..." class="img-circle team-img">
-                            <div class="caption">
+                            <img src="img/team/04.jpg" alt="..." class="img-circle team-img wow animated zoomIn">
+                            <div class=" caption wow animated bounceInUp">
                                 <h3>Jenn Gwapa</h3>
                                 <p>CEO / Founder</p>
                                 <p>Do not seek to change what has come before. Seek to create that which has not.</p>
@@ -183,8 +210,8 @@
 
                     <div class="item">
                         <div class="thumbnail">
-                            <img src="img/team/04.jpg" alt="..." class="img-circle team-img">
-                            <div class="caption">
+                            <img src="img/team/04.jpg" alt="..." class="img-circle team-img wow animated zoomIn">
+                            <div class=" caption wow animated bounceInUp">
                                 <h3>Jenn Gwapa</h3>
                                 <p>CEO / Founder</p>
                                 <p>Do not seek to change what has come before. Seek to create that which has not.</p>
@@ -194,8 +221,8 @@
 
                     <div class="item">
                         <div class="thumbnail">
-                            <img src="img/team/01.jpg" alt="..." class="img-circle team-img">
-                            <div class="caption">
+                            <img src="img/team/01.jpg" alt="..." class="img-circle team-img wow animated zoomIn">
+                            <div class=" caption wow animated bounceInUp">
                                 <h3>Jenn Gwapa</h3>
                                 <p>CEO / Founder</p>
                                 <p>Do not seek to change what has come before. Seek to create that which has not.</p>
@@ -205,8 +232,8 @@
 
                     <div class="item">
                         <div class="thumbnail">
-                            <img src="img/team/02.jpg" alt="..." class="img-circle team-img">
-                            <div class="caption">
+                            <img src="img/team/02.jpg" alt="..." class="img-circle team-img wow animated zoomIn">
+                            <div class=" caption wow animated bounceInUp">
                                 <h3>Jenn Gwapa</h3>
                                 <p>CEO / Founder</p>
                                 <p>Do not seek to change what has come before. Seek to create that which has not.</p>
@@ -216,8 +243,8 @@
 
                     <div class="item">
                         <div class="thumbnail">
-                            <img src="img/team/03.jpg" alt="..." class="img-circle team-img">
-                            <div class="caption">
+                            <img src="img/team/03.jpg" alt="..." class="img-circle team-img wow animated zoomIn">
+                            <div class=" caption wow animated bounceInUp">
                                 <h3>Jenn Gwapa</h3>
                                 <p>CEO / Founder</p>
                                 <p>Do not seek to change what has come before. Seek to create that which has not.</p>
@@ -489,7 +516,7 @@
                 </div>
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2">
-                        <div id="testimonial" class="owl-carousel owl-theme">
+                        <div class="slider" class="owl-carousel owl-theme">
                             <div class="item">
                                 <h5>This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</h5>
                                 <p><strong>Dean Martin</strong>, CEO Acme Inc.</p>
@@ -511,6 +538,50 @@
         </div>
     </div>
 
+
+    <div id="tf-find" class="text-center">
+        <div class="container">
+
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+
+                    <div class="section-title center">
+                        <h2>Feel free to <strong>contact us</strong></h2>
+                        <div class="line">
+                            <hr>
+                        </div>
+                        <div class="clearfix"></div>
+                        <small><em>Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</em></small>
+                    </div>
+
+                    <form>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label for="exampleInputEmail1">Email address</label>
+                                    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label for="exampleInputPassword1">Password</label>
+                                    <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="exampleInputEmail1">Message</label>
+                            <textarea class="form-control" rows="3"></textarea>
+                        </div>
+
+                        <button type="submit" class="btn tf-btn btn-default">Submit</button>
+                    </form>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
     <!-- Contact Section
     ==========================================-->
     <div id="tf-contact" class="text-center">
@@ -583,10 +654,24 @@
     <script type="text/javascript" src="js/jquery.isotope.js"></script>
 
     <script src="js/owl.carousel.js"></script>
+    <script src="js/wow.min.js"></script>
+
 
     <!-- Javascripts
     ================================================== -->
     <script type="text/javascript" src="js/main.js"></script>
+    <script type="text/javascript">
+    new WOW().init();
+     // $('#fall').one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend',function(){$("#fall").removeClass('bounceInDown'); $("#fall").addClass('bounce');} );
+  //    $(document).ready(function(){
+  //   setTimeout("$('#fall').addClass('visible animated bounceInDown');",1000);
+  //
+  // });
+ //     $('<img/>').attr('src', 'img/01.jpg').load(function() {
+ //  $(this).remove(); // prevent memory leaks as @benweet suggested
+ //
+ // });
+    </script>
 
   </body>
 </html>
