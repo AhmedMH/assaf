@@ -7,9 +7,9 @@
     <!--[if IE]><meta http-equiv="x-ua-compatible" content="IE=9" /><![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Assaf</title>
-    <meta name="description" content="Spirit8 is a Digital agency one page template built based on bootstrap framework. This template is design by Robert Berki and coded by Jenn Pereira. It is simple, mobile responsive, perfect for portfolio and agency websites. Get this for free exclusively at ThemeForces.com">
-    <meta name="keywords" content="bootstrap theme, portfolio template, digital agency, onepage, mobile responsive, spirit8, free website, free theme, themeforces themes, themeforces wordpress themes, themeforces bootstrap theme">
-    <meta name="author" content="ThemeForces.com">
+    <meta name="description" content="Assaf is a training center">
+    <meta name="keywords" content="traingin center, embedded systems, web developmemt">
+    <meta name="author" content="ahmedhamed.net">
 
     <!-- Favicons
     ================================================== -->
