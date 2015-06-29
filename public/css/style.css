@@ -174,7 +174,7 @@ a.fa.fa-angle-down {
 	border: 2px solid #b4b4b4;
 	border-radius: 50%;
 	font-size: 24px;
-	margin-top: 20px;
+	margin-top: 200px;
 	transition: all 0.5s;
 }
 a.fa.fa-angle-down:hover{
@@ -293,8 +293,8 @@ img.img-circle.team-img {
 	background: #5FB0E4;
 }
 
-/* Services Section */
-#tf-services{
+/* courses Section */
+#tf-courses{
 	padding: 80px 0;
 }
 
@@ -302,7 +302,7 @@ img.img-circle.team-img {
 	margin-top: 40px;
 }
 
-#tf-services i.fa {
+#tf-courses i.fa {
 	font-size: 40px;
 	border: 4px solid #5FB0E4;
 	width: 100px;
@@ -313,12 +313,12 @@ img.img-circle.team-img {
 	transition: all 0.5s;
 }
 
-#tf-services i.fa.fa-mobile{
+#tf-courses i.fa.fa-mobile{
 	font-size: 50px;
 	padding: 20px 25px;
 }
 
-#tf-services .service:hover>i.fa{
+#tf-courses .course:hover>i.fa{
 	background: #5FB0E4;
 	color: #ffffff;
 }
@@ -496,6 +496,11 @@ ol.type li a.active { font-weight: 700; }
 	margin: 30px 0;
 	color: #d1d1d1;
 }
+/* find Section */
+#tf-find{
+	padding: 80px 0;
+}
+
 /* Contact Section */
 #tf-contact{
 	padding: 80px 0;
@@ -506,7 +511,7 @@ label {
 	font-size: 12px;
 	font-weight: 400;
 	font-family: 'Open Sans', sans-serif;
-}
+}/*
 #tf-contact .form-control {
 	display: block;
 	width: 100%;
@@ -523,14 +528,14 @@ label {
 	-webkit-transition: none;
 	-o-transition: none;
 	transition: none;
-}
+}*/
 
-#tf-contact .form-control:focus {
+/*#tf-contact .form-control:focus {
 	border-color: inherit;
 	outline: 0;
 	-webkit-box-shadow: transparent;
 	box-shadow: transparent;
-}
+}*/
 
 button.btn.tf-btn.btn-default {
 	float: right;
@@ -600,4 +605,40 @@ nav#footer p{
 	-webkit-transition: all 1.2s;
 	transition-timing-function: ease-in-out;
 	-webkit-transition-timing-function: ease-in-out;*/
+}
+
+
+.panel-pricing {
+  -moz-transition: all .3s ease;
+  -o-transition: all .3s ease;
+  -webkit-transition: all .3s ease;
+}
+.panel-pricing:hover {
+  box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.2);
+}
+.panel-pricing .panel-heading {
+  padding: 20px 10px;
+}
+.panel-pricing .panel-heading .fa {
+  margin-top: 10px;
+  font-size: 58px;
+}
+.panel-pricing .list-group-item {
+  color: #777777;
+  border-bottom: 1px solid rgba(250, 250, 250, 0.5);
+}
+.panel-pricing .list-group-item:last-child {
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+}
+.panel-pricing .list-group-item:first-child {
+  border-top-right-radius: 0px;
+  border-top-left-radius: 0px;
+}
+.panel-pricing .panel-body {
+  background-color: #f0f0f0;
+  font-size: 40px;
+  color: #777777;
+  padding: 20px;
+  margin: 0px;
 }

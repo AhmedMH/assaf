@@ -73,14 +73,12 @@
             <li><a href="#tf-home" class="page-scroll">Home</a></li>
             <li><a href="#tf-about" class="page-scroll">About</a></li>
             <li><a href="#tf-team" class="page-scroll">Team</a></li>
-            <li><a href="#tf-services" class="page-scroll">Services</a></li>
-            <li><a href="#tf-works" class="page-scroll">Portfolio</a></li>
+            <li><a href="#tf-courses" class="page-scroll">Courses</a></li>
             <li><a href="#tf-testimonials" class="page-scroll">Testimonials</a></li>
-            <li><a href="#tf-find" class="page-scroll">Find Us</a></li>
             <li><a href="#tf-contact" class="page-scroll">Contact</a></li>
-            <li><button type="button" class="btn btn-warning btn-lg btn-block">
+           <!--  <li><button type="button" class="btn btn-warning btn-lg btn-block">
               Register
-            </button></li>
+            </button></li> -->
           </ul>
         </div><!-- /.navbar-collapse -->
       </div><!-- /.container-fluid -->
@@ -91,30 +89,9 @@
     <div id="tf-home" class="text-center">
         <div class="overlay">
             <div class="content">
-                <h1 id="fall" class="wow bounceInDown animated " data-wow-delay="1s">Welcome to <strong class="color">Assaf</strong></h1>
-
-                .<div class="container">
-
-                    <div class="col-md-8 col-md-offset-2">
-                      <div class="slider" class="owl-carousel owl-theme lead">
-                          <div class="item">
-                              <h5>This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</h5>
-                              <p><strong>Dean Martin</strong>, CEO Acme Inc.</p>
-                          </div>
-
-                          <div class="item">
-                              <h5>This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</h5>
-                              <p><strong>Dean Martin</strong>, CEO Acme Inc.</p>
-                          </div>
-
-                          <div class="item">
-                              <h5>This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</h5>
-                              <p><strong>Dean Martin</strong>, CEO Acme Inc.</p>
-                          </div>
-                  </div>
-                </div>
-              </div>
-                <!-- <p class="lead">We are a digital agency with <strong>years of experience</strong> and with <strong>extraordinary people</strong></p> -->
+                <h1 id="fall" class="wow animated ">Welcome to <strong class="color">Assaf</strong></h1>
+                <br>   
+                <p class="lead">The best training center in Egypt for <strong>Embedded Systems</strong> and <strong>Web Development</strong></p>
                 <div><a href="#tf-about" class="fa fa-angle-down page-scroll"></a></div>
             </div>
         </div>
@@ -136,19 +113,19 @@
                             <hr>
                             <div class="clearfix"></div>
                         </div>
-                        <p class="intro">We love building and rebuilding brands through our  specific skills. Using colour, fonts, and illustration, we brand companies in a way they will never forget.</p>
+                        <p class="intro">We are a training center based in Egypt, we have the best instructors in both embedded systems engineering and web development.</p>
                         <ul class="about-list">
                             <li  class="wow bounceInRight animated" >
                                 <span class="fa fa-dot-circle-o"></span>
-                                <strong>Mission</strong> - <em>We deliver uniqueness and quality</em>
+                                <strong>Vision</strong> - <em>We need to deliver excellent courses</em>
                             </li>
                             <li  class="wow bounceInRight animated" >
                                 <span class="fa fa-dot-circle-o"></span>
-                                <strong>Skills</strong> - <em>Delivering fast and excellent results</em>
+                                <strong>Experience</strong> - <em>we have the best experience</em>
                             </li>
                             <li  class="wow bounceInRight animated" >
                                 <span class="fa fa-dot-circle-o"></span>
-                                <strong>Clients</strong> - <em>Satisfied clients thanks to our experience</em>
+                                <strong>Students</strong> - <em>Satisfied thanks to our experience</em>
                             </li>
                         </ul>
                     </div>
@@ -169,144 +146,154 @@
                     </div>
                 </div>
 
-                <div id="team" class="owl-carousel owl-theme row">
+                <div id="team" class="owl-carousel owl-theme row text-center">
                     <div class="item">
                         <div class="thumbnail">
-                            <img src="img/team/01.jpg" alt="..." class="img-circle team-img wow animated zoomIn">
+                            <img src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xtf1/v/t1.0-1/c0.0.160.160/p160x160/10436201_10204458007984500_1253209381883231055_n.jpg?oh=0ec436a88b46e16cafb680dd88241312&oe=562C43F6&__gda__=1446259123_ba03609bd0fd32021518e267fb7d3863" alt="Ahmed Assaf" class="img-circle team-img wow animated zoomIn">
                             <div class=" caption wow animated bounceInUp">
-                                <h3>Jenn Gwapa</h3>
+                                <h3>Ahmed Assaf</h3>
                                 <p>CEO / Founder</p>
-                                <p>Do not seek to change what has come before. Seek to create that which has not.</p>
+                                <p>Embedded Systems Engineer</p>
                             </div>
                         </div>
                     </div>
 
                     <div class="item">
                         <div class="thumbnail">
-                            <img src="img/team/02.jpg" alt="..." class="img-circle team-img wow animated zoomIn">
+                            <img src="https://en.gravatar.com/userimage/88232252/6aea11bf787870b18b58467edf2e35b9.jpg?size=200" alt="Ahmed Hamed" class="img-circle team-img wow animated zoomIn">
                             <div class=" caption wow animated bounceInUp">
-                                <h3>Jenn Gwapa</h3>
+                                <h3>Ahmed Hamed</h3>
+                                <p>Instructor</p>
+                                <p>Web Developer</p>
+                            </div>
+                        </div>
+                    </div>
+                     <div class="item">
+                        <div class="thumbnail">
+                            <img src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xtf1/v/t1.0-1/c0.0.160.160/p160x160/10436201_10204458007984500_1253209381883231055_n.jpg?oh=0ec436a88b46e16cafb680dd88241312&oe=562C43F6&__gda__=1446259123_ba03609bd0fd32021518e267fb7d3863" alt="Ahmed Assaf" class="img-circle team-img wow animated zoomIn">
+                            <div class=" caption wow animated bounceInUp">
+                                <h3>Ahmed Assaf</h3>
                                 <p>CEO / Founder</p>
-                                <p>Do not seek to change what has come before. Seek to create that which has not.</p>
+                                <p>Embedded Systems Engineer</p>
                             </div>
                         </div>
                     </div>
 
                     <div class="item">
                         <div class="thumbnail">
-                            <img src="img/team/03.jpg" alt="..." class="img-circle team-img wow animated zoomIn">
+                            <img src="https://en.gravatar.com/userimage/88232252/6aea11bf787870b18b58467edf2e35b9.jpg?size=200" alt="Ahmed Hamed" class="img-circle team-img wow animated zoomIn">
                             <div class=" caption wow animated bounceInUp">
-                                <h3>Jenn Gwapa</h3>
-                                <p>CEO / Founder</p>
-                                <p>Do not seek to change what has come before. Seek to create that which has not.</p>
+                                <h3>Ahmed Hamed</h3>
+                                <p>Instructor</p>
+                                <p>Web Developer</p>
                             </div>
                         </div>
-                    </div>
-
-                    <div class="item">
-                        <div class="thumbnail">
-                            <img src="img/team/04.jpg" alt="..." class="img-circle team-img wow animated zoomIn">
-                            <div class=" caption wow animated bounceInUp">
-                                <h3>Jenn Gwapa</h3>
-                                <p>CEO / Founder</p>
-                                <p>Do not seek to change what has come before. Seek to create that which has not.</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="item">
-                        <div class="thumbnail">
-                            <img src="img/team/04.jpg" alt="..." class="img-circle team-img wow animated zoomIn">
-                            <div class=" caption wow animated bounceInUp">
-                                <h3>Jenn Gwapa</h3>
-                                <p>CEO / Founder</p>
-                                <p>Do not seek to change what has come before. Seek to create that which has not.</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="item">
-                        <div class="thumbnail">
-                            <img src="img/team/01.jpg" alt="..." class="img-circle team-img wow animated zoomIn">
-                            <div class=" caption wow animated bounceInUp">
-                                <h3>Jenn Gwapa</h3>
-                                <p>CEO / Founder</p>
-                                <p>Do not seek to change what has come before. Seek to create that which has not.</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="item">
-                        <div class="thumbnail">
-                            <img src="img/team/02.jpg" alt="..." class="img-circle team-img wow animated zoomIn">
-                            <div class=" caption wow animated bounceInUp">
-                                <h3>Jenn Gwapa</h3>
-                                <p>CEO / Founder</p>
-                                <p>Do not seek to change what has come before. Seek to create that which has not.</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="item">
-                        <div class="thumbnail">
-                            <img src="img/team/03.jpg" alt="..." class="img-circle team-img wow animated zoomIn">
-                            <div class=" caption wow animated bounceInUp">
-                                <h3>Jenn Gwapa</h3>
-                                <p>CEO / Founder</p>
-                                <p>Do not seek to change what has come before. Seek to create that which has not.</p>
-                            </div>
-                        </div>
-                    </div>
+                    </div>            
                 </div>
-
             </div>
         </div>
     </div>
 
-    <!-- Services Section
+
+
+
+    <!-- courses Section
     ==========================================-->
-    <div id="tf-services" class="text-center">
-        <div class="container">
+    <div id="tf-courses" class="text-center">
             <div class="section-title center">
-                <h2>Take a look at <strong>our services</strong></h2>
+                <h2>Take a look at <strong>our courses</strong></h2>
                 <div class="line">
                     <hr>
                 </div>
                 <div class="clearfix"></div>
-                <small><em>Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</em></small>
+                <small><em>Embedded Systems & Web Development courses instructed by the best engineers</em></small>
             </div>
+
+            <section id="plans">
+        <div class="container">
+            <div class="row">
+
+                <!-- item -->
+                <div class="col-md-5 text-center wow animated fadeInUp col-md-offset-1">
+                    <div class="panel panel-danger panel-pricing">
+                       <!--  <div class="panel-heading">
+                            <i class="fa fa-desktop"></i>
+                            <h3>Plan 1</h3>
+                        </div> -->
+                        <img src="http://lorempixel.com/480/200/technics/" class="img-responsive">
+                        <div class="panel-body text-center">
+                            <p><strong>Embedded Systems</strong></p>
+                        </div>
+                        <ul class="list-group text-center">
+                            <li class="list-group-item">PCB Design</li>
+                            <li class="list-group-item">Embedded C</li>
+                            <li class="list-group-item">Microcontrollers</li>
+                        </ul>
+                        <div class="panel-footer">
+                            <a class="btn btn-lg btn-block btn-danger" href="#">ENROLL NOW!</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- /item -->
+
+                <!-- item -->
+                <div class="col-md-5 text-center wow animated fadeInUp">
+                    <div class="panel panel-warning panel-pricing">
+                        <!-- <div class="panel-heading">
+                            <i class="fa fa-desktop"></i>
+                            <h3>Plan 2</h3>
+                        </div> -->
+                        <img src="http://lorempixel.com/480/200/technics/" class="img-responsive">
+                        <div class="panel-body text-center">
+                            <p><strong>Web Development</strong></p>
+                        </div>
+                        <ul class="list-group text-center">
+                            <li class="list-group-item">PHP, MySql</li>
+                            <li class="list-group-item">HTML,CSS</li>
+                            <li class="list-group-item">JavaScript</li>
+                        </ul>
+                        <div class="panel-footer">
+                            <a class="btn btn-lg btn-block btn-warning" href="#">ENROLL NOW!</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- /item -->
+            </div>
+        </div>
+            
+        <!-- < div class="container">
             <div class="space"></div>
             <div class="row">
-                <div class="col-md-3 col-sm-6 service">
+                <div class="col-md-3 col-sm-6 course">
                     <i class="fa fa-desktop"></i>
                     <h4><strong>Web design</strong></h4>
                     <p>The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
                 </div>
 
-                <div class="col-md-3 col-sm-6 service">
+                <div class="col-md-3 col-sm-6 course">
                     <i class="fa fa-mobile"></i>
                     <h4><strong>Mobile Apps</strong></h4>
                     <p>The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
                 </div>
 
-                <div class="col-md-3 col-sm-6 service">
+                <div class="col-md-3 col-sm-6 course">
                     <i class="fa fa-camera"></i>
                     <h4><strong>Photography</strong></h4>
                     <p>The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
                 </div>
 
-                <div class="col-md-3 col-sm-6 service">
+                <div class="col-md-3 col-sm-6 course">
                     <i class="fa fa-bullhorn"></i>
                     <h4><strong>Marketing</strong></h4>
                     <p>The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
 
     <!-- Clients Section
     ==========================================-->
-    <div id="tf-clients" class="text-center">
+    <!-- <div id="tf-clients" class="text-center">
         <div class="overlay">
             <div class="container">
 
@@ -342,14 +329,14 @@
 
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Portfolio Section
     ==========================================-->
-    <div id="tf-works">
-        <div class="container"> <!-- Container -->
+   <!--  <div id="tf-works">
+        <div class="container"> 
             <div class="section-title text-center center">
-                <h2>Take a look at <strong>our services</strong></h2>
+                <h2>Take a look at <strong>our courses</strong></h2>
                 <div class="line">
                     <hr>
                 </div>
@@ -507,7 +494,7 @@
 
             </div>
         </div>
-    </div>
+    </div> -->
 
     <!-- Testimonials Section
     ==========================================-->
@@ -515,7 +502,7 @@
         <div class="overlay">
             <div class="container">
                 <div class="section-title center">
-                    <h2><strong>Our clients’</strong> testimonials</h2>
+                    <h2><strong>Our students’</strong> testimonials</h2>
                     <div class="line">
                         <hr>
                     </div>
@@ -524,18 +511,13 @@
                     <div class="col-md-8 col-md-offset-2">
                         <div class="slider" class="owl-carousel owl-theme">
                             <div class="item">
-                                <h5>This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</h5>
-                                <p><strong>Dean Martin</strong>, CEO Acme Inc.</p>
+                                <h5>Good Courses for staring a successful career</h5>
+                                <p><strong>Ahmed Assaf</strong>, engineer</p>
                             </div>
 
                             <div class="item">
-                                <h5>This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</h5>
-                                <p><strong>Dean Martin</strong>, CEO Acme Inc.</p>
-                            </div>
-
-                            <div class="item">
-                                <h5>This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</h5>
-                                <p><strong>Dean Martin</strong>, CEO Acme Inc.</p>
+                                <h5>Best training center ever</h5>
+                                <p><strong>Ahmed Hamed</strong>, engineer</p>
                             </div>
                         </div>
                     </div>
@@ -545,87 +527,62 @@
     </div>
 
 
-    <div id="tf-find" class="text-center">
-        <div class="container">
-
-            <div class="row">
-                <div class="col-md-8 col-md-offset-2">
-
-                    <div class="section-title center">
-                        <h2>Feel free to <strong>contact us</strong></h2>
-                        <div class="line">
-                            <hr>
-                        </div>
-                        <div class="clearfix"></div>
-                        <small><em>Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</em></small>
-                    </div>
-
-                    <form>
-                        <div class="row">
-                            <div class="col-md-6">
-                                <div class="form-group">
-                                    <label for="exampleInputEmail1">Email address</label>
-                                    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="form-group">
-                                    <label for="exampleInputPassword1">Password</label>
-                                    <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="form-group">
-                            <label for="exampleInputEmail1">Message</label>
-                            <textarea class="form-control" rows="3"></textarea>
-                        </div>
-
-                        <button type="submit" class="btn tf-btn btn-default">Submit</button>
-                    </form>
-
-                </div>
-            </div>
-
-        </div>
-    </div>
     <!-- Contact Section
     ==========================================-->
     <div id="tf-contact" class="text-center">
         <div class="container">
 
             <div class="row">
-                <div class="col-md-8 col-md-offset-2">
-
                     <div class="section-title center">
-                        <h2>Feel free to <strong>contact us</strong></h2>
+                        <h2>Feel free to <strong>contact/visit us</strong></h2>
                         <div class="line">
                             <hr>
                         </div>
                         <div class="clearfix"></div>
-                        <small><em>Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</em></small>
+                        <small><em>We are here to help, you are more than welcome to come visit us or Ask any thing away!</em></small>
                     </div>
+                     <div class="row">
+        <div class="col-md-8 wow animated zoomInLeft">
+            <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.co.uk/maps?f=q&source=s_q&hl=en&geocode=&q=15+Springfield+Way,+Hythe,+CT21+5SH&aq=t&sll=52.8382,-2.327815&sspn=8.047465,13.666992&ie=UTF8&hq=&hnear=15+Springfield+Way,+Hythe+CT21+5SH,+United+Kingdom&t=m&z=14&ll=51.077429,1.121722&output=embed"></iframe>
+        </div>
+        
+        <div class="col-md-4 lightSpeedIn wow animated">
+            <h2>Snail mail</h2>
+            <address>
+                <strong>Hythe Window Cleaning</strong><br>
+                15 Springfield Way<br>
+                Hythe<br>
+                Kent<br>
+                United Kingdon<br>
+                CT21 5SH<br>
+                <abbr title="Phone">P:</abbr> 01234 567 890
+            </address>
+        </div>
+    </div>
+    <br><br>
+                <div class="col-md-8 col-md-offset-2">
 
                     <form>
                         <div class="row">
-                            <div class="col-md-6">
+                            <div class="col-md-6 wow animated bounceInLeft">
                                 <div class="form-group">
-                                    <label for="exampleInputEmail1">Email address</label>
-                                    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
+                                    <!-- <label for="exampleInputEmail1">Email address</label> -->
+                                    <input type="text" class="form-control" required placeholder="Name">
                                 </div>
                             </div>
-                            <div class="col-md-6">
+                            <div class="col-md-6 wow animated bounceInRight">
                                 <div class="form-group">
-                                    <label for="exampleInputPassword1">Password</label>
-                                    <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+                                    <!-- <label for="exampleInputPassword1">Password</label> -->
+                                    <input type="email" class="form-control" required placeholder="Email">
                                 </div>
                             </div>
                         </div>
-                        <div class="form-group">
-                            <label for="exampleInputEmail1">Message</label>
-                            <textarea class="form-control" rows="3"></textarea>
+                        <div class="form-group wow animated bounceInUp">
+                            <!-- <label for="exampleInputEmail1">Message</label> -->
+                            <textarea class="form-control" rows="3" style="resize:none; height:200px;" required placeholder="Message"></textarea>
                         </div>
 
-                        <button type="submit" class="btn tf-btn btn-default">Submit</button>
+                        <button type="submit" class="btn tf-btn btn-default wow animated fadeInUp">Submit</button>
                     </form>
 
                 </div>
@@ -637,14 +594,13 @@
     <nav id="footer">
         <div class="container">
             <div class="pull-left fnav">
-                <p>ALL RIGHTS RESERVED. COPYRIGHT © 2014. Designed by <a href="https://dribbble.com/shots/1817781--FREEBIE-Spirit8-Digital-agency-one-page-template">Robert Berki</a> and Coded by <a href="https://dribbble.com/jennpereira">Jenn Pereira</a></p>
+                <p>ALL RIGHTS RESERVED TO ASSAF. COPYRIGHT © 2015.</p>
             </div>
             <div class="pull-right fnav">
                 <ul class="footer-social">
                     <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
                     <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
                 </ul>
             </div>
         </div>
@@ -668,6 +624,7 @@
     <script type="text/javascript" src="js/main.js"></script>
     <script type="text/javascript">
     new WOW().init();
+    $("#fall").addClass("bounceInDown");
      // $('#fall').one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend',function(){$("#fall").removeClass('bounceInDown'); $("#fall").addClass('bounce');} );
   //    $(document).ready(function(){
   //   setTimeout("$('#fall').addClass('visible animated bounceInDown');",1000);
