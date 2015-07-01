@@ -543,25 +543,10 @@
                     </div>
                     </div>
                      <div class="row">
-        <div class="col-md-8 wow animated zoomInLeft">
+        <div class="col-md-7 wow animated zoomInLeft">
             <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.co.uk/maps?f=q&source=s_q&hl=en&geocode=&q=15+Springfield+Way,+Hythe,+CT21+5SH&aq=t&sll=52.8382,-2.327815&sspn=8.047465,13.666992&ie=UTF8&hq=&hnear=15+Springfield+Way,+Hythe+CT21+5SH,+United+Kingdom&t=m&z=14&ll=51.077429,1.121722&output=embed"></iframe>
         </div>
-        
-        <div class="col-md-4 lightSpeedIn wow animated">
-            <h2>Snail mail</h2>
-            <address>
-                <strong>Hythe Window Cleaning</strong><br>
-                15 Springfield Way<br>
-                Hythe<br>
-                Kent<br>
-                United Kingdon<br>
-                CT21 5SH<br>
-                <abbr title="Phone">P:</abbr> 01234 567 890
-            </address>
-        </div>
-    </div>
-    <br><br>
-                <div class="col-md-8 col-md-offset-2">
+                <div class="col-md-5">
 
                     <form>
                         <div class="row">
@@ -580,13 +565,28 @@
                         </div>
                         <div class="form-group wow animated bounceInUp">
                             <!-- <label for="exampleInputEmail1">Message</label> -->
-                            <textarea class="form-control" rows="3" style="resize:none; height:200px;" required placeholder="Message"></textarea>
+                            <textarea class="form-control" rows="3" style="resize:none; height:250px;" required placeholder="Message"></textarea>
                         </div>
 
                         <button type="submit" class="btn tf-btn btn-default wow animated fadeInUp">Submit</button>
                     </form>
 
                 </div>
+        
+   <!--      <div class="col-md-4 lightSpeedIn wow animated">
+            <h2>Snail mail</h2>
+            <address>
+                <strong>Hythe Window Cleaning</strong><br>
+                15 Springfield Way<br>
+                Hythe<br>
+                Kent<br>
+                United Kingdon<br>
+                CT21 5SH<br>
+                <abbr title="Phone">P:</abbr> 01234 567 890
+            </address>
+        </div> -->
+    </div>
+<!--     <br><br> -->
             </div>
 
         </div>
