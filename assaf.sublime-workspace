@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"add",
+				"addClass"
+			],
+			[
+				"fa",
+				"fall"
+			],
+			[
 				"for",
 				"for	for …"
 			],
@@ -331,6 +339,41 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "resources/views/welcome.blade.php",
+			"settings":
+			{
+				"buffer_size": 30178,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Kernel.php",
+			"settings":
+			{
+				"buffer_size": 980,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/css/style.css",
+			"settings":
+			{
+				"buffer_size": 16388,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "RewriteEngine on\nRewriteCond %{SERVER_PORT} 80 \nRewriteRule ^(.*)$ https://ahmedhamed.net/$1 [R,L]\nRewriteCond %{HTTP_HOST} ^www\\.ahmedhamed\\.net [NC]\nRewriteRule (.*) https://ahmedhamed.net/$1 [R=301,L]\n\n",
+			"file": "/C/Users/Ahmed/AppData/Local/Temp/fz3temp-2/.htaccess",
+			"file_size": 205,
+			"file_write_time": 130803385899800614,
+			"settings":
+			{
+				"buffer_size": 205,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -397,7 +440,9 @@
 	},
 	"expanded_folders":
 	[
-		"/C/xampp/htdocs/assaf"
+		"/C/xampp/htdocs/assaf",
+		"/C/xampp/htdocs/assaf/app",
+		"/C/xampp/htdocs/assaf/app/Http"
 	],
 	"file_history":
 	[
@@ -532,7 +577,7 @@
 	],
 	"find":
 	{
-		"height": 34.0
+		"height": 36.0
 	},
 	"find_in_files":
 	{
@@ -546,6 +591,32 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"team",
+			"owl",
+			"courses",
+			"enter",
+			"courses",
+			"<i class=\"fa fa-check\"></i> ",
+			"check",
+			"offset",
+			"course",
+			"`@",
+			"}/*\n",
+			"\n.pricing-table .plan {\n  border-radius: 5px;\n  text-align: center;\n  background-color: #f3f3f3;\n  -moz-box-shadow: 0 0 6px 2px #b0b2ab;\n  -webkit-box-shadow: 0 0 6px 2px #b0b2ab;\n  box-shadow: 0 0 6px 2px #b0b2ab;\n}\n \n .plan:hover {\n  background-color: #fff;\n  -moz-box-shadow: 0 0 12px 3px #b0b2ab;\n  -webkit-box-shadow: 0 0 12px 3px #b0b2ab;\n  box-shadow: 0 0 12px 3px #b0b2ab;\n}\n ",
+			"course",
+			"zoomInLeft",
+			"service",
+			"services",
+			"service",
+			"Services",
+			"service",
+			"margin-",
+			"25px",
+			"team",
+			"contact-f",
+			"team",
+			"                   ",
+			"       \n            ",
 			"img",
 			"error",
 			"red",
@@ -629,6 +700,11 @@
 		"regex": false,
 		"replace_history":
 		[
+			"",
+			"course",
+			"courses",
+			"course",
+			"courses",
 			"pntr",
 			"{{ asset('jqw/",
 			"Override all"
@@ -642,14 +718,148 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "resources/views/welcome.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 30178,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								25828,
+								25828
+							],
+							[
+								26295,
+								26295
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 11600.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/Http/Kernel.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 980,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "public/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16388,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4856,
+								4856
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3701.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Ahmed/AppData/Local/Temp/fz3temp-2/.htaccess",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 205,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								89,
+								89
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 26.0
+		"height": 28.0
 	},
 	"input":
 	{
@@ -694,7 +904,7 @@
 	"project": "assaf.sublime-project",
 	"replace":
 	{
-		"height": 62.0
+		"height": 66.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -703,6 +913,14 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"sty",
+				"public\\css\\style.css"
+			],
+			[
+				"welc",
+				"resources\\views\\welcome.blade.php"
+			],
 			[
 				"welcom",
 				"resources\\views\\welcome.blade.php"
@@ -754,10 +972,6 @@
 			[
 				"ques",
 				"app\\Http\\Controllers\\QuestionsController.php"
-			],
-			[
-				"sty",
-				"public\\css\\style.css"
 			],
 			[
 				"toggl",
@@ -1210,10 +1424,6 @@
 			[
 				"choosec",
 				"app\\Http\\Controllers\\ChooseController.php"
-			],
-			[
-				"routing",
-				"vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RoutingServiceProvider.php"
 			]
 		],
 		"width": 0.0

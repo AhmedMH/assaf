@@ -199,9 +199,9 @@ ul.about-list li span{
 
 /* Team Section */
 #tf-team{
-	background: url(../img/03.jpg);
-	background-size: cover;
-	background-position: center;
+	background: url(../img/apache.png);
+	background-size: initial;
+	background-position: top left;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	color: #ffffff;
