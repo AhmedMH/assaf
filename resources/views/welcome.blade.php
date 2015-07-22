@@ -89,7 +89,7 @@
     <div id="tf-home" class="text-center">
         <div class="overlay">
             <div class="content">
-                <h1 id="fall" class="wow animated ">Welcome to <strong class="color">Assaf</strong></h1>
+                <h1 id="fall" class="wow animated " style="visibility: hidden;">Welcome to <strong class="color">Assaf</strong></h1>
                 <br>   
                 <p class="lead">The best training center in Egypt for <strong>Embedded Systems</strong> and <strong>Web Development</strong></p>
                 <div><a href="#tf-about" class="fa fa-angle-down page-scroll"></a></div>
