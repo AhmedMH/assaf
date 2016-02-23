@@ -8,13 +8,13 @@
     <meta charset="utf-8">
     <!--[if IE]><meta http-equiv="x-ua-compatible" content="IE=9" /><![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Assaf</title>
-    <meta name="description" content="Assaf is a training center">
+    <title>Imtschool</title>
+    <meta name="description" content="Imtschool is a training center">
     <meta name="keywords" content="traingin center, embedded systems, web developmemt">
     <meta name="author" content="ahmedhamed.net">
     <meta property="og:image" content="img/01.jpg"/>
-    <meta property="og:title" content="Assaf"/>
-    <meta property="og:description" content="Assaf is a training center"/>
+    <meta property="og:title" content="Imtschool"/>
+    <meta property="og:description" content="Imtschool is a training center"/>
 
 
     <!-- Favicons
@@ -64,7 +64,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">Assaf</a>
+          <a class="navbar-brand" href="#">Imtschool</a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
@@ -89,9 +89,9 @@
     <div id="tf-home" class="text-center">
         <div class="overlay">
             <div class="content">
-                <h1 id="fall" class="wow animated " style="visibility: hidden;">Welcome to <strong class="color">Assaf</strong></h1>
+                <h1 id="fall" class="wow animated " style="visibility: hidden;">Welcome to <strong class="color">Imtschool</strong></h1>
                 <br>   
-                <p class="lead">The best training center in Egypt for <strong>Embedded Systems</strong> and <strong>Web Development</strong></p>
+                <p class="lead">The best training center in Egypt for <strong>Embedded Systems</strong></p>
                 <div><a href="#tf-about" class="fa fa-angle-down page-scroll"></a></div>
             </div>
         </div>
@@ -103,7 +103,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 wow bounceInLeft animated">
-                    <img  style="margin-bottom:20px;" src="http://lorempixel.com/600/350/technics/" class="img-responsive">
+                    <img  style="margin-bottom:20px;" src="/img/02.png" class="img-responsive">
                 </div>
                 <div class="col-md-6 wow fadeInUpBig animated">
                     <div class="about-text">
@@ -113,20 +113,26 @@
                             <hr>
                             <div class="clearfix"></div>
                         </div>
-                        <p class="intro">We are a training center based in Egypt, we have the best instructors in both embedded systems engineering and web development.</p>
+                        <div class="intro">
+                        <p>IMT School (I Make Technology School) is not a place where you can take some courses; it is a place in which you practice technology. We believe that listening to someone speaking about something is not a good way of learning, so, “Do it yourself” is our way.</p>
+                        <p>Our learning methodology totally depends on hands on labs that transfers the knowledge you get from being just information to be an experience.</p>
+                        <p>Our staff are engineers from leading companies in the same field.</p>
+                        </div>
                         <ul class="about-list">
                             <li  class="wow bounceInRight animated" >
                                 <span class="fa fa-dot-circle-o"></span>
-                                <strong>Vision</strong> - <em>We need to deliver excellent courses</em>
+                                <strong>if you want to go Professional, IMT School is your destination!
+ Let’s meet the experts, let’s practice technology.
+</strong>
                             </li>
-                            <li  class="wow bounceInRight animated" >
+                           <!--  <li  class="wow bounceInRight animated" >
                                 <span class="fa fa-dot-circle-o"></span>
                                 <strong>Experience</strong> - <em>we have the best experience</em>
                             </li>
                             <li  class="wow bounceInRight animated" >
                                 <span class="fa fa-dot-circle-o"></span>
                                 <strong>Students</strong> - <em>Satisfied thanks to our experience</em>
-                            </li>
+                            </li> -->
                         </ul>
                     </div>
                 </div>
@@ -136,7 +142,7 @@
 
     <!-- Team Page
     ==========================================-->
-    <div id="tf-team" class="text-center">
+ <!--    <div id="tf-team" class="text-center">
         <div class="overlay">
             <div class="container">
                 <div class="section-title center">
@@ -193,20 +199,21 @@
             </div>
         </div>
     </div>
-
+ -->
 
 
 
     <!-- courses Section
     ==========================================-->
     <div id="tf-courses" class="text-center">
+    <div class="overlay">
             <div class="section-title center">
                 <h2>Take a look at <strong>our courses</strong></h2>
                 <div class="line">
                     <hr>
                 </div>
                 <div class="clearfix"></div>
-                <small><em>Embedded Systems & Web Development courses instructed by the best engineers</em></small>
+                <small><em>Embedded Systems courses instructed by the best engineers</em></small>
             </div>
 
             <section id="plans">
@@ -289,6 +296,7 @@
                 </div>
             </div>
         </div> -->
+        </div>
     </div>
 
     <!-- Clients Section
@@ -498,7 +506,7 @@
 
     <!-- Testimonials Section
     ==========================================-->
-    <div id="tf-testimonials" class="text-center">
+    <!-- <div id="tf-testimonials" class="text-center">
         <div class="overlay">
             <div class="container">
                 <div class="section-title center">
@@ -524,7 +532,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
 
     <!-- Contact Section
@@ -595,13 +603,13 @@
     <nav id="footer">
         <div class="container">
             <div class="pull-left fnav">
-                <p>ALL RIGHTS RESERVED TO ASSAF. COPYRIGHT © 2015.</p>
+                <p>ALL RIGHTS RESERVED TO Imtschool. COPYRIGHT © 2016.</p>
             </div>
             <div class="pull-right fnav">
                 <ul class="footer-social">
-                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                    <li><a href="https://www.facebook.com/imaketechnologyschool" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                   <!--  <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                    <li><a href="#"><i class="fa fa-google-plus"></i></a></li> -->
                 </ul>
             </div>
         </div>

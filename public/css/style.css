@@ -295,6 +295,12 @@ img.img-circle.team-img {
 
 /* courses Section */
 #tf-courses{
+	background: url(../img/01-old2.jpg);
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	color: #cfcfcf;
 	padding: 80px 0;
 }
 

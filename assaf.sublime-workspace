@@ -4,16 +4,180 @@
 		"selected_items":
 		[
 			[
-				"add",
-				"addClass"
+				"use",
+				"users"
 			],
 			[
-				"fa",
-				"fall"
+				"u",
+				"users"
+			],
+			[
+				"rec",
+				"record"
+			],
+			[
+				"ass",
+				"assignrelations"
+			],
+			[
+				"cas",
+				"cashier"
+			],
+			[
+				"mercha",
+				"merchant"
+			],
+			[
+				"br",
+				"branch"
+			],
+			[
+				"Ut",
+				"Utils"
+			],
+			[
+				"mer",
+				"merchant"
+			],
+			[
+				"fi",
+				"field"
 			],
 			[
 				"for",
-				"for	for …"
+				"foreach	foreach …"
+			],
+			[
+				"val",
+				"validation"
+			],
+			[
+				"di",
+				"display_name"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"v",
+				"validator"
+			],
+			[
+				"pay",
+				"paymeadmin"
+			],
+			[
+				"role",
+				"roles"
+			],
+			[
+				"return",
+				"returnhome"
+			],
+			[
+				"merchant",
+				"merchantsuperadmin"
+			],
+			[
+				"payme",
+				"paymeadmin"
+			],
+			[
+				"paym",
+				"paymesuperadmin"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"Auth",
+				"AuthController"
+			],
+			[
+				"Us",
+				"UserRepository"
+			],
+			[
+				"bac-",
+				"background-size"
+			],
+			[
+				"fo",
+				"for"
+			],
+			[
+				"s",
+				"sticks"
+			],
+			[
+				"arr",
+				"array_fill"
+			],
+			[
+				"arra",
+				"array_fill"
+			],
+			[
+				"op",
+				"optype"
+			],
+			[
+				"a",
+				"actualmonth"
+			],
+			[
+				"ex",
+				"expectedmonth"
+			],
+			[
+				"ac",
+				"actual"
+			],
+			[
+				"dayornight",
+				"dayornight"
+			],
+			[
+				"coun",
+				"country_name"
+			],
+			[
+				"dayo",
+				"dayorNight"
+			],
+			[
+				"cou",
+				"country"
+			],
+			[
+				"pa",
+				"parseJSON"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"sy",
+				"symbol"
+			],
+			[
+				"sun",
+				"sunrise"
+			],
+			[
+				"su",
+				"sunset"
+			],
+			[
+				"text",
+				"text-align"
 			],
 			[
 				"var",
@@ -26,10 +190,6 @@
 			[
 				"do",
 				"double"
-			],
-			[
-				"re",
-				"return"
 			],
 			[
 				"sq",
@@ -62,10 +222,6 @@
 			[
 				"De",
 				"DEBUG"
-			],
-			[
-				"s",
-				"size"
 			],
 			[
 				"si",
@@ -120,10 +276,6 @@
 				"showanswers"
 			],
 			[
-				"fo",
-				"for	for …"
-			],
-			[
 				"font",
 				"font-size"
 			],
@@ -176,14 +328,6 @@
 				"branch_id"
 			],
 			[
-				"json",
-				"json_encode"
-			],
-			[
-				"arr",
-				"array	$… = array (…)"
-			],
-			[
 				"na",
 				"navigate"
 			],
@@ -208,10 +352,6 @@
 				"json_encode"
 			],
 			[
-				"a",
-				"arr"
-			],
-			[
 				"subc",
 				"subcategories"
 			],
@@ -226,10 +366,6 @@
 			[
 				"crea",
 				"created_at"
-			],
-			[
-				"ex",
-				"exams"
 			],
 			[
 				"data",
@@ -260,10 +396,6 @@
 				"group"
 			],
 			[
-				"use",
-				"user"
-			],
-			[
 				"wi",
 				"width"
 			],
@@ -278,14 +410,6 @@
 			[
 				"h",
 				"href	Attr"
-			],
-			[
-				"pa",
-				"pasteAndGo"
-			],
-			[
-				"br",
-				"branch_id"
 			],
 			[
 				"Ca",
@@ -340,59 +464,57 @@
 	"buffers":
 	[
 		{
-			"file": "resources/views/welcome.blade.php",
+			"contents": "",
 			"settings":
 			{
-				"buffer_size": 30178,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/Http/Kernel.php",
-			"settings":
-			{
-				"buffer_size": 980,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "public/css/style.css",
-			"settings":
-			{
-				"buffer_size": 16388,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "RewriteEngine on\nRewriteCond %{SERVER_PORT} 80 \nRewriteRule ^(.*)$ https://ahmedhamed.net/$1 [R,L]\nRewriteCond %{HTTP_HOST} ^www\\.ahmedhamed\\.net [NC]\nRewriteRule (.*) https://ahmedhamed.net/$1 [R=301,L]\n\n",
-			"file": "/C/Users/Ahmed/AppData/Local/Temp/fz3temp-2/.htaccess",
-			"file_size": 205,
-			"file_write_time": 130803385899800614,
-			"settings":
-			{
-				"buffer_size": 205,
-				"line_ending": "Unix"
+				"buffer_size": 0,
+				"line_ending": "Windows",
+				"name": "cm"
 			}
 		}
 	],
 	"build_system": "",
 	"build_system_choices":
 	[
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		]
 	],
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 58.0,
-		"last_filter": "newfil",
+		"height": 265.0,
+		"last_filter": "sftp",
 		"selected_items":
 		[
 			[
-				"newfil",
-				"File: New View into File"
+				"sftp",
+				"SFTP: Map to Remote…"
 			],
 			[
-				"sftp",
-				"SFTP: Browse Server…"
+				"make ",
+				"Build With: Make"
+			],
+			[
+				"make",
+				"Build With: Make"
+			],
+			[
+				"newfil",
+				"File: New View into File"
 			],
 			[
 				"d",
@@ -440,150 +562,149 @@
 	},
 	"expanded_folders":
 	[
-		"/C/xampp/htdocs/assaf",
-		"/C/xampp/htdocs/assaf/app",
-		"/C/xampp/htdocs/assaf/app/Http"
+		"/C/xampp/htdocs/assaf"
 	],
 	"file_history":
 	[
-		"/C/xampp/htdocs/assaf/resources/views/welcome.blade.php",
-		"/C/Users/Ahmed/Documents/valeo/check_prime.c",
-		"/C/Users/Ahmed/Documents/valeo/topics to be considered.txt",
-		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-2/000-default.conf",
-		"/C/Windows/System32/drivers/etc/hosts",
-		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
-		"/C/Users/Ahmed/Documents/valeo/flip.c",
-		"/C/Users/Ahmed/Documents/valeo/example.c",
-		"/C/Users/Ahmed/Documents/valeo/machine.h",
-		"/C/Users/Ahmed/Documents/valeo/valeo exam/valeo (2).txt",
-		"/C/xampp/htdocs/ssl/ssl.key",
-		"/C/xampp/htdocs/ssl/ssl.crt",
-		"/C/xampp/htdocs/charity/app/views/layouts/manager.blade.php",
-		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-1/embeddedcasts.com.conf",
+		"/C/xampp/htdocs/payme-5.2/.env",
+		"/C/xampp/htdocs/payme-5.2/resources/views/users/edit.blade.php",
+		"/C/xampp/htdocs/payme-5.2/composer1.json",
 		"/C/Users/Ahmed/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/ahmedhamed.net",
-		"/C/Users/Ahmed/Documents/valeo/sftp/sftp-config.json",
-		"/C/Users/Ahmed/Documents/valeo/valeo exam/sftp-config.json",
-		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-1/000-default.conf",
-		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-1/hamed.foozee.net",
-		"/C/Users/Ahmed/Documents/valeo/prob6.c",
-		"/C/Users/Ahmed/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.sublime-settings",
 		"/C/Users/Ahmed/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
-		"/C/Users/Ahmed/Documents/valeo/prob5_decimal2binary.c",
-		"/C/xampp/htdocs/embeddedcasts/resources/views/welcome.blade.php",
-		"/C/Users/Ahmed/Documents/valeo/bubble_sorting.c",
-		"/C/Users/Ahmed/Documents/valeo/how to know endianess.txt",
-		"/C/Users/Ahmed/Documents/valeo/prob4.c",
-		"/C/Users/Ahmed/Documents/valeo/prob3.c",
-		"/C/Users/Ahmed/Documents/valeo/prob2.c",
-		"/C/Users/Ahmed/Documents/valeo/prob1.c",
-		"/C/Users/Ahmed/Documents/valeo/prob.c",
-		"/C/Users/Ahmed/Downloads/php/index.php",
-		"/C/Users/Ahmed/Downloads/index.php",
-		"/C/xampp/htdocs/alton/responder.php",
-		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-1/default",
-		"/C/xampp/apache/conf/httpd.conf",
-		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-2/.env",
-		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-2/.htaccess",
-		"/C/xampp/mysql/bin/my.ini",
+		"/C/xampp/htdocs/payme-5.2/database/migrations/2016_02_01_000000_create_merchant_table.php",
+		"/C/xampp/htdocs/payme-5.2/resources/views/merchants/index.blade.php",
+		"/C/xampp/htdocs/payme-5.2/storage/logs/laravel.log",
+		"/C/xampp/htdocs/payme-5.2/vendor/laravel/framework/src/Illuminate/Database/Migrations/Migrator.php",
+		"/C/xampp/htdocs/payme-5.2/vendor/composer/autoload_classmap.php",
+		"/C/xampp/htdocs/payme-5.2/bootstrap/app.php",
+		"/C/xampp/htdocs/payme-5.2/bootstrap/autoload.php",
+		"/C/xampp/htdocs/payme-5.2/public/index.php",
+		"/C/xampp/htdocs/payme-5.2/resources/views/users/create.blade.php",
+		"/C/xampp/htdocs/payme-5.2/resources/views/layouts/app-user.blade.php",
+		"/C/xampp/htdocs/payme-5.2/resources/views/layouts/app-guest.blade.php",
+		"/C/xampp/htdocs/payme-5.2 - Copy/app/Http/Utilites/Utils.php",
+		"/C/xampp/htdocs/payme-5.2/config/compile.php",
+		"/C/xampp/htdocs/payme-5.2/app/Role.php",
+		"/C/xampp/htdocs/payme-5.2/vendor/laravel/framework/src/Illuminate/Foundation/Auth/User.php",
+		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-1/000-default.conf",
+		"/C/xampp/htdocs/payme-5.2/app/User.php",
+		"/C/xampp/htdocs/payme-5.2/app/Http/Controllers/BranchmanagerController.php",
+		"/C/xampp/htdocs/payme-5.2/app/Http/Controllers/MerchantadminController.php",
+		"/C/xampp/htdocs/payme-5.2/app/Http/Controllers/MobileApiController.php",
+		"/C/xampp/htdocs/payme-5.2/resources/views/old-home.php",
+		"/C/xampp/htdocs/payme-5.2/app/Http/routes.php",
+		"/C/xampp/htdocs/payme-5.2/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php",
+		"/C/xampp/htdocs/payme-5.2/app/Http/Controllers/ProfileController.php",
+		"/C/xampp/htdocs/payme-5.2/config/app.php",
+		"/C/xampp/htdocs/payme-5.2/app/Http/Utilites/Utils.php",
+		"/C/xampp/htdocs/payme-5.2/vendor/laravel/framework/src/Illuminate/Auth/Events/Login.php",
+		"/C/xampp/htdocs/payme-5.2/vendor/laravel/framework/src/Illuminate/Foundation/Providers/ArtisanServiceProvider.php",
+		"/C/xampp/htdocs/payme-5.2/app/Http/Controllers/HomeController.php",
+		"/C/xampp/htdocs/payme-5.2/resources/views/auth/passwords/reset.blade.php",
+		"/C/xampp/htdocs/payme-5.2/resources/views/auth/passwords/email.blade.php",
+		"/C/xampp/htdocs/payme-5.2/resources/views/welcome.blade.php",
+		"/C/xampp/htdocs/payme-5.2/resources/views/auth/login.blade.php",
+		"/C/xampp/htdocs/payme-5.2/app/models/Pos.php",
+		"/C/xampp/htdocs/payme-5.2/database/migrations/2016_02_01_010427_create_users_table.php",
+		"/C/xampp/htdocs/payme-5.2/app/Http/Kernel.php",
+		"/C/xampp/htdocs/payme-5.2/vendor/zizaco/entrust/src/Entrust/Middleware/EntrustRole.php",
+		"/C/xampp/htdocs/payme-5.2/vendor/zizaco/entrust/src/Entrust/EntrustRole.php",
+		"/C/xampp/htdocs/payme-5.2/resources/views/users/index.blade.php",
+		"/C/xampp/htdocs/payme-5.2/resources/views/layouts/app.blade.php",
+		"/C/xampp/htdocs/payme-5.2/app/Http/Controllers/UserController.php",
+		"/C/xampp/htdocs/payme-5.2/app/Http/Controllers/Auth/PasswordController.php",
+		"/C/xampp/htdocs/payme-5.2/vendor/laravel/framework/src/Illuminate/Foundation/Auth/ResetsPasswords.php",
+		"/C/xampp/htdocs/payme-5.2/composer.json",
+		"/C/xampp/htdocs/payme-5.2/vendor/laravel/framework/src/Illuminate/Foundation/Auth/RegistersUsers.php",
+		"/C/xampp/htdocs/payme-5.2/resources/views/auth/register.blade.php",
+		"/C/xampp/htdocs/payme-5.2/app/Http/Controllers/Controller.php",
+		"/C/xampp/htdocs/payme-5.2/app/Http/Controllers/Auth/AuthController.php",
+		"/C/xampp/htdocs/payme-5.2/resources/views/html/tables-data.html",
+		"/C/xampp/htdocs/payme-5.2/public/js/pages/tables-ajax.js",
+		"/C/xampp/htdocs/payme-5.2/resources/views/html/tables-ajax.html",
+		"/C/xampp/htdocs/payme-5.2/app/Http/Controllers/MerchantsuperadminController.php",
+		"/C/xampp/htdocs/payme-5.2/resources/views/users/paymeadmin/index.blade.php",
+		"/C/xampp/htdocs/payme-5.2/database/migrations/2016_02_05_003059_create_merchant_branches_table.php",
+		"/C/xampp/htdocs/payme-5.2/database/migrations/2016_02_04_212641_create_merchant_table.php",
+		"/C/xampp/htdocs/payme-5.2/vendor/laravel/framework/src/Illuminate/Foundation/Console/IlluminateCaster - Copy.php",
+		"/C/xampp/htdocs/payme-5.2/composer.lock",
+		"/C/xampp/htdocs/payme-5.2/app/Http/Middleware/EntrustRole.php",
+		"/C/xampp/htdocs/payme-5.2/app/Http/Controllers/PaController.php",
+		"/C/xampp/htdocs/payme-5.2/app/Http/Middleware/EncryptCookies.php",
+		"/C/xampp/htdocs/payme-5.2/app/Http/Middleware/AuthMobile.php",
+		"/C/xampp/htdocs/payme-5.2/config/database.php",
+		"/C/xampp/htdocs/payme-5.2 - Copy/composer.json",
+		"/C/xampp/htdocs/payme-5.2/vendor/zizaco/entrust/src/commands/MigrationCommand.php",
+		"/C/xampp/htdocs/payme-5.2/vendor/zizaco/entrust/src/Entrust/EntrustServiceProvider.php",
+		"/C/xampp/htdocs/payme-5.2/config/services.php",
+		"/C/xampp/htdocs/payme-5.2/gulpfile.js",
+		"/C/xampp/htdocs/payme-5.2/config/auth.php",
+		"/C/xampp/htdocs/payme-5.2/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php",
+		"/C/xampp/htdocs/payme-5.2/vendor/zizaco/entrust/src/Entrust/EntrustFacade.php",
+		"/C/xampp/htdocs/payme-5.2/resources/views/home.blade.php",
+		"/C/xampp/htdocs/payme-5.2/vendor/laravel/framework/src/Illuminate/Contracts/Auth/UserProvider.php",
+		"/C/xampp/htdocs/payme-5.2/app/Http/Middleware/RedirectIfAuthenticated.php",
+		"/C/xampp/htdocs/payme-5.2/app/Http/Middleware/Authenticate.php",
+		"/C/xampp/htdocs/payme-5.2/app/Permission.php",
+		"/C/xampp/htdocs/payme-5.2/resources/views/auth/old-login.php",
+		"/C/xampp/htdocs/payme-5.2/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesAndRegistersUsers.php",
+		"/C/xampp/htdocs/payme-5.2/resources/views/old-welcome.php",
+		"/C/xampp/htdocs/payme-5.2/bootstrap/cache/config.php",
+		"/C/xampp/htdocs/payme-5.2/resources/views/html/plugins/forms/validation/localization/messages_my.min.js",
+		"/C/xampp/htdocs/payme-5.2/config/entrust.php",
+		"/C/xampp/htdocs/payme-5.2/vendor/zizaco/entrust/src/Entrust/Entrust.php",
+		"/C/xampp/htdocs/payme-5.2/vendor/phpunit/phpunit/tests/TextUI/report-useless-tests.phpt",
+		"/C/xampp/htdocs/payme-5.2/resources/views/layouts/old-app.php",
+		"/C/xampp/htdocs/payme-5.2/resources/views/auth/old-reset.php",
+		"/C/xampp/htdocs/payme-5.2/resources/views/auth/passwords/old-login.php",
+		"/C/xampp/htdocs/payme-5.2/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/C/xampp/htdocs/payme-5.2/database/migrations/2016_02_05_002834_create_user_cards_table.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/xampp/htdocs/payme-5.2/vendor/phpspec/prophecy/spec/Prophecy/Util/StringUtilSpec.php",
+		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-3/error.log",
+		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-2/error.log",
+		"/C/xampp/htdocs/coalition/app/Http/Requests/Request.php",
+		"/C/xampp/htdocs/coalition/vendor/symfony/http-foundation/Request.php",
+		"/C/xampp/htdocs/lumina/app/Weather.php",
+		"/C/xampp/htdocs/lumina/.env",
+		"/C/xampp/htdocs/lumina/lumina.php",
+		"/C/xampp/htdocs/lumina/resources/views/home.php",
+		"/C/xampp/htdocs/lumina/bootstrap/app.php",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/Users/Ahmed/AppData/Local/Temp/Rar$DRa0.520/rainloop/v/1.9.2.343/app/templates/Views/User/LoginWelcome.html",
+		"/C/Users/Ahmed/AppData/Local/Temp/Rar$DRa0.885/rainloop/v/1.9.2.343/app/templates/Views/User/LoginWelcome.html",
+		"/C/Users/Ahmed/AppData/Local/Temp/Rar$DRa0.462/rainloop/v/1.9.2.343/app/templates/Views/User/Login.html",
+		"/C/Users/Ahmed/AppData/Local/Temp/Rar$DRa0.592/rainloop/v/1.9.2.343/app/templates/Index.html",
+		"/C/Users/Ahmed/AppData/Local/Temp/Rar$DRa0.838/rainloop/v/1.9.2.343/app/handle.php",
+		"/C/Users/Ahmed/AppData/Local/Temp/Rar$DRa0.720/index.php",
+		"/C/Users/Ahmed/AppData/Local/Temp/Rar$DRa0.653/rainloop/v/1.9.2.343/index.php.root",
+		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-1/Login.html",
 		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-1/php.ini",
-		"/C/xampp/htdocs/alton/connect.php",
-		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-1/laravel-2015-05-29.log",
-		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-1/.htaccess",
-		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-1/.env",
-		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-1/default-ssl.conf",
-		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-1/.env.example",
+		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-1/app.log",
+		"/C/Users/Ahmed/AppData/Local/Temp/Rar$DRa0.162/rainloop/v/1.9.2.343/app/templates/Views/Admin/AdminLogin.html",
+		"/C/Users/Ahmed/AppData/Local/Temp/Rar$DRa0.938/rainloop/v/1.9.2.343/app/templates/Views/User/Login.html",
+		"/C/xampp/htdocs/Source/runtime/mail/20150719-210224-3432-0423.eml",
 		"/C/xampp/php/php.ini",
-		"/C/Users/Ahmed/Documents/valeo/reverse_string.c",
-		"/C/Users/Ahmed/Documents/valeo/trz336D.tmp",
-		"/C/xampp/htdocs/New folder/laravel-2015-05-13.log",
-		"/C/xampp/htdocs/New folder/mysql_error.log",
-		"/C/xampp/mysql/bin/sha3er.sql",
-		"/C/xampp/htdocs/New folder/php.ini",
-		"/C/xampp/htdocs/New folder/laravel-2015-04-16.log",
-		"/C/xampp/htdocs/New folder/laravel-2015-04-21.log",
-		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-2/.env.example",
-		"/C/Users/Ahmed/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-		"/C/xampp/htdocs/sha3er/public/jqw/jqwidgets/styles/jqx.highcontrast.css",
-		"/C/xampp/htdocs/sha3er/vendor/vsmoraes/laravel-pdf/src/PdfFacade.php",
-		"/C/xampp/htdocs/sha3er/app/Question.php",
-		"/C/xampp/htdocs/sha3er/resources/views/partials/form.blade.php",
-		"/C/xampp/htdocs/charity/app/controllers/respondercontroller.php",
-		"/C/xampp/htdocs/sha3er/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Minus.php",
-		"/C/xampp/htdocs/sha3er/public/index.php",
-		"/C/xampp/htdocs/sha3er/vendor/phpspec/phpspec/src/PhpSpec/Formatter/Html/InvalidExampleResultException.php",
-		"/C/xampp/htdocs/sha3er/vendor/phpdocumentor/reflection-docblock/tests/phpDocumentor/Reflection/DocBlock/Tag/ExampleTagTest.php",
-		"/C/xampp/htdocs/sha3er/vendor/nikic/php-parser/bin/php-parse.php",
-		"/C/xampp/htdocs/sha3er/public/clipboard/jquery.zclip.min.js",
-		"/C/xampp/htdocs/charity/app/models/periods.php",
-		"/C/xampp/htdocs/sha3er/database/migrations/2015_04_14_011535_create_questions_table.php",
-		"/C/xampp/htdocs/sha3er/vendor/symfony/console/Symfony/Component/Console/Question/Question.php",
-		"/C/xampp/htdocs/sha3er/.env",
-		"/C/xampp/htdocs/sha3er/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesAndRegistersUsers.php",
-		"/C/xampp/htdocs/sha3er/app/Http/Middleware/Authenticate.php",
-		"/C/xampp/htdocs/sha3er/app/Http/Middleware/RedirectIfAuthenticated.php",
-		"/C/xampp/htdocs/sha3er/public/css/style.css",
-		"/C/xampp/htdocs/sha3er/resources/views/questions/index.blade.php",
-		"/C/xampp/htdocs/sha3er/resources/views/welcome.blade.php",
-		"/C/xampp/htdocs/sha3er/app/Http/routes.php",
-		"/C/xampp/plm_laravel/storage/framework/sessions/c5576bf8d659b1fde0e67514887fdffb1405c1b6",
-		"/C/xampp/plm_laravel/storage/framework/sessions/e9634f6d8f0a9f247791a4c6ad3586cd63e7b957",
-		"/C/xampp/plm_laravel/storage/framework/sessions/7df5348e390d4818ac1f6204c260dee2cdc6e173",
-		"/C/xampp/plm_laravel/storage/framework/sessions/333170345e5a4662b9ff4f622fb7dde361d936f0",
-		"/C/xampp/plm_laravel/app/Commands/Command.php",
-		"/C/xampp/htdocs/phpquestionbank-code-4/login.php",
-		"/C/xampp/htdocs/phpquestionbank-code-4/setup.sql",
-		"/C/xampp/phpMyAdmin/config.inc.php",
-		"/C/xampp/plm_laravel/composer.json",
-		"/C/xampp/plm_laravel/vendor/laravel/socialite/src/Two/AbstractProvider.php",
-		"/C/xampp/plm_laravel/vendor/league/oauth1-client/src/Client/Server/Twitter.php",
-		"/C/xampp/plm_laravel/vendor/laravel/socialite/src/One/AbstractProvider.php",
-		"/C/xampp/plm_laravel/config/services.php",
-		"/C/xampp/apache/conf/extra/httpd-xampp.conf",
-		"/C/xampp/plm_laravel/.env",
-		"/C/xampp/plm_laravel/vendor/league/oauth1-client/src/Client/Credentials/TokenCredentials.php",
-		"/C/xampp/plm_laravel/vendor/league/oauth1-client/src/Client/Credentials/Credentials.php",
-		"/C/xampp/plm_laravel/resources/views/auth/register.blade.php",
-		"/C/xampp/plm_laravel/resources/views/auth/password.blade.php",
-		"/C/xampp/plm_laravel/resources/views/auth/login.blade.php",
-		"/C/xampp/plm_laravel/resources/views/choosetype.blade.php",
-		"/C/xampp/htdocs/plm/.htaccess",
-		"/C/xampp/plm_laravel/.htaccess",
-		"/C/xampp/htdocs/plm/css/style.css",
-		"/C/xampp/plm_laravel/resources/views/home.blade.php",
-		"/C/xampp/plm_laravel/resources/views/login.blade.php",
-		"/C/xampp/plm_laravel/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesAndRegistersUsers.php",
-		"/C/xampp/plm_laravel/resources/views/common.blade.php",
-		"/C/xampp/plm_laravel/database/migrations/2014_10_12_000000_create_users_table.php",
-		"/C/xampp/plm_laravel/vendor/laravel/socialite/src/One/TwitterProvider.php",
-		"/C/xampp/plm_laravel/app/Http/Requests/TypeRequest.php",
-		"/C/xampp/plm_laravel/vendor/laracasts/flash/src/views/message.blade.php",
-		"/C/xampp/plm_laravel/config/app.php",
-		"/C/xampp/plm_laravel/app/Http/Controllers/LoginController.php",
-		"/C/xampp/plm_laravel/vendor/laravel/socialite/src/SocialiteManager.php",
-		"/C/xampp/plm_laravel/storage/logs/laravel-2015-04-08.log",
-		"/C/xampp/plm_laravel/app/Http/Controllers/ChooseController.php",
-		"/C/xampp/plm_laravel/vendor/laracasts/flash/src/Laracasts/Flash/FlashNotifier.php",
-		"/C/xampp/plm_laravel/vendor/laravel/framework/src/Illuminate/Contracts/Routing/Registrar.php",
-		"/C/xampp/plm_laravel/vendor/laracasts/flash/src/views/modal.blade.php",
-		"/C/xampp/plm_laravel/app/Http/routes.php",
-		"/C/xampp/plm_laravel/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php",
-		"/C/xampp/plm_laravel/app/Providers/RouteServiceProvider.php",
-		"/C/xampp/htdocs/charity/app/routes.php",
-		"/C/xampp/php/cacert.pem",
-		"/C/xampp/plm_laravel/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemServiceProvider.php",
-		"/C/xampp/htdocs/plm/css/app.css",
-		"/C/xampp/plm_laravel/app/Http/Middleware/ChooseUserType.php",
-		"/C/xampp/plm_laravel/app/Http/Controllers/FileController.php"
+		"/C/xampp/htdocs/Source/runtime/mail/20150719-204113-5285-0905.eml",
+		"/C/xampp/htdocs/Source/views/layouts/main.php",
+		"/C/xampp/htdocs/Ahmed Hamed - Software Engineer - PHP/Readme.txt",
+		"/C/Users/Ahmed/AppData/Local/Temp/fz3temp-2/000-default.conf",
+		"/C/xampp/htdocs/Source/models/User.php",
+		"/C/xampp/htdocs/Source/controllers/ArticleController.php",
+		"/C/xampp/htdocs/Source/models/Mailer.php",
+		"/C/xampp/htdocs/Source/web/index.php",
+		"/C/xampp/htdocs/Source/controllers/AuthController.php"
 	],
 	"find":
 	{
-		"height": 36.0
+		"height": 27.0
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 93.0,
 		"where_history":
 		[
+			""
 		]
 	},
 	"find_state":
@@ -591,33 +712,117 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"team",
-			"owl",
-			"courses",
-			"enter",
-			"courses",
-			"<i class=\"fa fa-check\"></i> ",
-			"check",
-			"offset",
-			"course",
-			"`@",
-			"}/*\n",
-			"\n.pricing-table .plan {\n  border-radius: 5px;\n  text-align: center;\n  background-color: #f3f3f3;\n  -moz-box-shadow: 0 0 6px 2px #b0b2ab;\n  -webkit-box-shadow: 0 0 6px 2px #b0b2ab;\n  box-shadow: 0 0 6px 2px #b0b2ab;\n}\n \n .plan:hover {\n  background-color: #fff;\n  -moz-box-shadow: 0 0 12px 3px #b0b2ab;\n  -webkit-box-shadow: 0 0 12px 3px #b0b2ab;\n  box-shadow: 0 0 12px 3px #b0b2ab;\n}\n ",
-			"course",
-			"zoomInLeft",
-			"service",
-			"services",
-			"service",
-			"Services",
-			"service",
-			"margin-",
-			"25px",
-			"team",
-			"contact-f",
-			"team",
-			"                   ",
-			"       \n            ",
-			"img",
+			"fields",
+			"assignrelations",
+			"display_name",
+			"user",
+			"model",
+			"@if",
+			"home",
+			"qr",
+			"path",
+			"file",
+			"migra",
+			"KeyGenerateCommand",
+			"key",
+			"supr",
+			"merchant",
+			"dashboard",
+			"error",
+			"loginUsername",
+			"passw",
+			"error",
+			"postre",
+			"User",
+			"create",
+			"typ",
+			"role",
+			"passwo",
+			"dash",
+			"avatar.j",
+			"plugins",
+			"yie",
+			"basic tab",
+			"cons",
+			"constr",
+			"bind",
+			"ziz",
+			"createp",
+			"create",
+			"ziz",
+			"bind",
+			"loginUsername",
+			"val",
+			"login",
+			"username",
+			"file",
+			"Managemen",
+			"forms",
+			"supr",
+			"section",
+			"reset",
+			"pass",
+			"supr",
+			"supr ",
+			"verify",
+			"Utils",
+			"browseu",
+			"browse",
+			"url",
+			"Bro",
+			"bro",
+			"browse",
+			"bro",
+			"browse",
+			"get",
+			"aler",
+			"pass",
+			"user",
+			"User",
+			"h1",
+			"url",
+			"shadow",
+			"body",
+			"all(",
+			"all",
+			".",
+			"\n",
+			"\n\n",
+			".",
+			"=op",
+			"center",
+			"{{ asset('",
+			"view",
+			"views",
+			"rain",
+			"mail",
+			"rainloo",
+			"<input type=\"email\" class=\"i18n input-block-level inputEmail checkAutocomplete\" name=\"RainLoopEmail\" id=\"RainLoopEmail\" style=\"padding-right: 35px;\" autocorrect=\"off\" autocapitalize=\"off\" spellcheck=\"false\" data-bind=\"textInput: email, hasFocus: emailFocus\" data-i18n=\"[placeholder]LOGIN/LABEL_EMAIL\" placeholder=\"Email\">",
+			"input",
+			"timezo",
+			"phpmailer",
+			"mailer",
+			"phpmailer",
+			"phpmail",
+			"timez",
+			"array",
+			"main",
+			"preg_re",
+			"preg",
+			"mail",
+			"pass",
+			"mailer",
+			"news",
+			"imt",
+			"imts",
+			"news-portal",
+			"Album",
+			"modul",
+			"www",
+			"main",
+			"decode",
+			"main",
+			"\n$",
 			"error",
 			"red",
 			"select",
@@ -634,65 +839,7 @@
 			"remov",
 			"30",
 			"execution",
-			"30",
-			"output",
-			"out",
-			"output",
-			"getcurren",
-			"getpa",
-			"get",
-			"preview",
-			"oncl",
-			"exam",
-			"source.url",
-			"jqxgrid",
-			"source",
-			"jqxgrid",
-			"grid",
-			"../../",
-			"fa",
-			"cdn",
-			"width",
-			"exam'",
-			"exam",
-			"autocom",
-			"autocom.",
-			"root",
-			"outline",
-			"htdocs",
-			"127.0.0.1",
-			"localhost",
-			"$temp",
-			"temp",
-			"AbstractProvider",
-			"driver",
-			"extension=php_fileinfo",
-			"extension",
-			"file",
-			"auth",
-			"input",
-			"content",
-			"input",
-			"localhost",
-			"smtp",
-			"user",
-			"curl",
-			"curl.cainfo",
-			"curl",
-			"curl.cainfo",
-			"input",
-			"fakemail",
-			"vhost",
-			"vh",
-			"ssl",
-			"Override none",
-			"override none",
-			"override",
-			"data",
-			"http",
-			"p>",
-			"</",
-			"\"]//);"
+			"30"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -700,11 +847,16 @@
 		"regex": false,
 		"replace_history":
 		[
+			"/plugins",
+			"order",
+			"Order",
+			"\n",
 			"",
-			"course",
-			"courses",
-			"course",
-			"courses",
+			"\n",
+			"",
+			"=$op",
+			"",
+			"Article",
 			"pntr",
 			"{{ asset('jqw/",
 			"Override all"
@@ -718,54 +870,15 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "resources/views/welcome.blade.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 30178,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								25828,
-								25828
-							],
-							[
-								26295,
-								26295
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true,
-							"word_wrap": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 11600.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "app/Http/Kernel.php",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 980,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
@@ -778,11 +891,9 @@
 						],
 						"settings":
 						{
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"auto_name": "cm",
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -790,76 +901,13 @@
 					},
 					"stack_index": 0,
 					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "public/css/style.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 16388,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4856,
-								4856
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 3701.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/C/Users/Ahmed/AppData/Local/Temp/fz3temp-2/.htaccess",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 205,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								89,
-								89
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
 				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 28.0
+		"height": 27.0
 	},
 	"input":
 	{
@@ -900,11 +948,11 @@
 	{
 		"height": 232.0
 	},
-	"pinned_build_system": "Packages/User/C.sublime-build",
+	"pinned_build_system": "Packages/Makefile/Make.sublime-build",
 	"project": "assaf.sublime-project",
 	"replace":
 	{
-		"height": 66.0
+		"height": 50.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -914,516 +962,516 @@
 		"selected_items":
 		[
 			[
-				"sty",
-				"public\\css\\style.css"
-			],
-			[
-				"welc",
-				"resources\\views\\welcome.blade.php"
-			],
-			[
-				"welcom",
-				"resources\\views\\welcome.blade.php"
-			],
-			[
-				"oop",
-				"valeo\\oop.php"
-			],
-			[
-				"p",
-				"valeo\\prob.c"
-			],
-			[
-				"pdf",
-				"app\\Http\\Controllers\\PdfController.php"
-			],
-			[
-				"app",
-				"resources\\views\\app.blade.php"
-			],
-			[
-				"quespartia",
-				"resources\\views\\questions\\partials\\form.blade.php"
-			],
-			[
-				"flashmes",
-				"vendor\\laracasts\\flash\\src\\views\\message.blade.php"
-			],
-			[
-				"examind",
-				"resources\\views\\exams\\index.blade.php"
-			],
-			[
-				"exam",
-				"app\\Http\\Controllers\\ExamsController.php"
-			],
-			[
-				"que",
-				"app\\Http\\Controllers\\QuestionsController.php"
-			],
-			[
-				"quesinde",
-				"resources\\views\\questions\\index.blade.php"
-			],
-			[
-				"quesind",
-				"resources\\views\\questions\\index.blade.php"
-			],
-			[
-				"ques",
-				"app\\Http\\Controllers\\QuestionsController.php"
-			],
-			[
-				"toggl",
-				"public\\bootstrap\\js\\bootstrap-toggle.js"
-			],
-			[
-				"toggle",
-				"public\\bootstrap\\js\\bootstrap-toggle.js"
-			],
-			[
-				"quesin",
-				"app\\Question.php"
-			],
-			[
-				"examsind",
-				"resources\\views\\exams\\index.blade.php"
-			],
-			[
-				"examssh",
-				"resources\\views\\exams\\show.blade.php"
-			],
-			[
-				"rou",
-				"app\\Http\\routes.php"
-			],
-			[
-				"ro",
-				"app\\Http\\routes.php"
-			],
-			[
-				"questio",
-				"app\\Http\\Controllers\\QuestionsController.php"
-			],
-			[
-				"show",
-				"resources\\views\\exams\\show.blade.php"
-			],
-			[
-				"examshow",
-				"resources\\views\\exams\\show.blade.php"
-			],
-			[
-				"connection",
-				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php"
-			],
-			[
-				"q",
-				"app\\Http\\Controllers\\QuestionsController.php"
-			],
-			[
-				".ht",
-				"public\\.htaccess"
-			],
-			[
-				".hta",
-				"public\\jqw\\jqwidgets\\styles\\jqx.highcontrast.css"
-			],
-			[
-				"route",
-				"app\\Http\\routes.php"
-			],
-			[
-				"authenticatesandregistersusers",
-				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Auth\\AuthenticatesAndRegistersUsers.php"
-			],
-			[
-				"pdfc",
-				"app\\Http\\Controllers\\PdfController.php"
-			],
-			[
-				"dompdf",
-				"vendor\\dompdf\\dompdf\\include\\dompdf.cls.php"
-			],
-			[
-				"dompdfinstance",
-				"vendor\\dompdf\\dompdf\\include\\abstract_renderer.cls.php"
-			],
-			[
-				"pdfserv",
-				"vendor\\vsmoraes\\laravel-pdf\\src\\PdfServiceProvider.php"
-			],
-			[
-				"mydompdf",
-				"vendor\\symfony\\debug\\Symfony\\Component\\Debug\\Exception\\FatalErrorException.php"
-			],
-			[
-				"",
-				"vendor\\vsmoraes\\laravel-pdf\\src\\PdfFacade.php"
-			],
-			[
-				"vsmoraes/pdf",
-				"vendor\\vsmoraes\\laravel-pdf\\src\\PdfFacade.php"
-			],
-			[
-				"com",
-				"composer.json"
-			],
-			[
-				"vsmoraespdf",
-				"vendor\\vsmoraes\\laravel-pdf\\src\\PdfServiceProvider.php"
-			],
-			[
-				"compos",
-				"composer.json"
-			],
-			[
-				"rout",
-				"app\\Http\\routes.php"
-			],
-			[
-				"routes",
-				"app\\Providers\\RouteServiceProvider.php"
-			],
-			[
-				"env",
+				".env",
 				".env"
-			],
-			[
-				"mail",
-				"config\\mail.php"
-			],
-			[
-				"configmail",
-				"config\\mail.php"
-			],
-			[
-				"htt",
-				"C:\\xampp\\apache\\conf\\httpd.conf"
-			],
-			[
-				"examss",
-				"resources\\views\\exams\\show.blade.php"
-			],
-			[
-				"examssho",
-				"resources\\views\\exams\\show.blade.php"
-			],
-			[
-				"examsho",
-				"resources\\views\\exams\\show.blade.php"
-			],
-			[
-				"router",
-				"vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php"
-			],
-			[
-				"quesindex",
-				"resources\\views\\questions\\index.blade.php"
-			],
-			[
-				"exa",
-				"app\\Http\\Controllers\\ExamsController.php"
 			],
 			[
 				"compo",
 				"composer.json"
 			],
 			[
-				"sho",
-				"resources\\views\\exams\\show.blade.php"
+				".en",
+				".env"
 			],
 			[
-				"ker",
-				"app\\Http\\Kernel.php"
+				"works",
+				".idea\\workspace.xml"
 			],
 			[
-				"sh",
-				"resources\\views\\exams\\show.blade.php"
+				"model/mer",
+				"app\\models\\Merchant.php"
 			],
 			[
-				"comp",
+				"mercha",
+				"app\\Merchant.php"
+			],
+			[
+				"co",
 				"composer.json"
 			],
 			[
-				"ex",
-				"app\\Http\\Controllers\\ExamsController.php"
+				"manageed",
+				"resources\\views\\management\\edit.blade.php"
 			],
 			[
-				"examsc",
-				"app\\Http\\Controllers\\ExamsController.php"
+				"pro",
+				"app\\Http\\Controllers\\ProfileController.php"
 			],
 			[
-				"exam_q",
-				"app\\Http\\Controllers\\exam_question.php"
+				"userc",
+				"app\\Http\\Controllers\\UserController.php"
 			],
 			[
-				"flashme",
-				"vendor\\laracasts\\flash\\src\\views\\message.blade.php"
+				"",
+				"app\\Http\\Controllers\\ProfileController.php"
 			],
 			[
-				"stude",
-				"C:\\xampp\\htdocs\\alton\\models\\students.php"
+				"user.ph",
+				"app\\User.php"
 			],
 			[
-				"quesc",
-				"app\\Http\\Controllers\\QuestionsController.php"
+				"profil",
+				"app\\Http\\Controllers\\ProfileController.php"
 			],
 			[
-				"examsh",
-				"app\\Http\\Controllers\\ExamsController.php"
+				"user.",
+				"app\\User.php"
 			],
 			[
-				"qu",
-				"app\\Http\\Controllers\\QuestionsController.php"
-			],
-			[
-				"mang",
-				"C:\\xampp\\htdocs\\alton\\manager.php"
-			],
-			[
-				"manager",
-				"C:\\xampp\\htdocs\\alton\\manager.php"
-			],
-			[
-				"man",
-				"C:\\xampp\\htdocs\\alton\\manager.php"
-			],
-			[
-				"question",
-				"app\\Http\\Controllers\\QuestionsController.php"
-			],
-			[
-				"exam_qu",
-				"app\\exam_question.php"
-			],
-			[
-				"questionin",
-				"resources\\views\\questions\\index.blade.php"
-			],
-			[
-				"examsin",
-				"resources\\views\\exams\\index.blade.php"
-			],
-			[
-				"examin",
-				"vendor\\nikic\\php-parser\\lib\\PhpParser\\Node\\Expr\\AssignOp\\Minus.php"
-			],
-			[
-				"questin",
-				"resources\\views\\questions\\index.blade.php"
-			],
-			[
-				"questind",
-				"resources\\views\\questions\\index.blade.php"
-			],
-			[
-				"examsi",
-				"resources\\views\\exams\\index.blade.php"
-			],
-			[
-				"auth",
-				"app\\Http\\Controllers\\Auth\\AuthController.php"
-			],
-			[
-				"styl",
-				"public\\css\\style.css"
-			],
-			[
-				"exams",
-				"vendor\\phpdocumentor\\reflection-docblock\\tests\\phpDocumentor\\Reflection\\DocBlock\\Tag\\ExampleTagTest.php"
-			],
-			[
-				"indexex",
-				"vendor\\phpspec\\phpspec\\src\\PhpSpec\\Formatter\\Html\\InvalidExampleResultException.php"
-			],
-			[
-				"inde",
-				"public\\index.php"
-			],
-			[
-				"pp",
-				"vendor\\nikic\\php-parser\\bin\\php-parse.php"
-			],
-			[
-				"exams.i",
-				"resources\\views\\exams\\index.blade.php"
-			],
-			[
-				"form.bl",
-				"resources\\views\\questions\\partials\\form.blade.php"
-			],
-			[
-				"form",
-				"resources\\views\\partials\\form.blade.php"
-			],
-			[
-				"form.",
-				"resources\\views\\questions\\partials\\form.blade.php"
-			],
-			[
-				"form.b",
-				"resources\\views\\partials\\form.blade.php"
-			],
-			[
-				"cre",
-				"resources\\views\\questions\\create.blade.php"
+				"branchc",
+				"app\\Http\\Controllers\\BranchController.php"
 			],
 			[
 				"crea",
-				"resources\\views\\questions\\create.blade.php"
+				"resources\\views\\management\\create.blade.php"
 			],
 			[
-				"flashm",
-				"vendor\\laracasts\\flash\\src\\views\\message.blade.php"
+				"index",
+				"resources\\views\\management\\index.blade.php"
 			],
 			[
-				"home",
+				"user",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Auth\\AuthenticatesUsers.php"
+			],
+			[
+				"userco",
+				"app\\Http\\Controllers\\UserController.php"
+			],
+			[
+				"mangeind",
+				"resources\\views\\management\\index.blade.php"
+			],
+			[
+				"larave",
+				"storage\\logs\\laravel.log"
+			],
+			[
+				"mangcre",
+				"resources\\views\\management\\create.blade.php"
+			],
+			[
+				"app-user",
+				"resources\\views\\layouts\\app-user.blade.php"
+			],
+			[
+				"mer",
+				"app\\Merchant.php"
+			],
+			[
+				"bran",
+				"app\\Branch.php"
+			],
+			[
+				"merc",
+				"app\\Merchant.php"
+			],
+			[
+				"bra",
+				"app\\Branch.php"
+			],
+			[
+				"branch",
+				"app\\Branch.php"
+			],
+			[
+				"us",
+				"app\\User.php"
+			],
+			[
+				"managedi",
+				"resources\\views\\management\\edit.blade.php"
+			],
+			[
+				"edit",
+				"resources\\views\\users\\edit.blade.php"
+			],
+			[
+				"cre",
+				"resources\\views\\management\\create.blade.php"
+			],
+			[
+				"uti",
+				"app\\Http\\Utilites\\Utils.php"
+			],
+			[
+				"util",
+				"app\\Http\\Utilites\\Utils.php"
+			],
+			[
+				"bracnhc",
+				"app\\Http\\Controllers\\BranchController.php"
+			],
+			[
+				"merchantc",
+				"app\\Http\\Controllers\\MerchantController.php"
+			],
+			[
+				"merchant",
+				"database\\migrations\\2016_02_01_000000_create_merchant_table.php"
+			],
+			[
+				"managind",
+				"resources\\views\\management\\index.blade.php"
+			],
+			[
+				"branc",
+				"app\\Branch.php"
+			],
+			[
+				"manain",
+				"resources\\views\\management\\index.blade.php"
+			],
+			[
+				"manaind",
+				"resources\\views\\management\\index.blade.php"
+			],
+			[
+				"create",
+				"resources\\views\\management\\create.blade.php"
+			],
+			[
+				"route",
+				"app\\Http\\routes.php"
+			],
+			[
+				"creat",
+				"resources\\views\\management\\create.blade.php"
+			],
+			[
+				"managcre",
+				"resources\\views\\management\\create.blade.php"
+			],
+			[
+				"manainde",
+				"resources\\views\\management\\index.blade.php"
+			],
+			[
+				"managecre",
+				"resources\\views\\management\\create.blade.php"
+			],
+			[
+				"merch",
+				"app\\Http\\Controllers\\MerchantController.php"
+			],
+			[
+				"pos.p",
+				"app\\Pos.php"
+			],
+			[
+				"app",
+				"config\\app.php"
+			],
+			[
+				"merchan",
+				"app\\Http\\Controllers\\MerchantController.php"
+			],
+			[
+				"prof",
+				"app\\Http\\Controllers\\ProfileController.php"
+			],
+			[
+				"managed",
+				"resources\\views\\management\\edit.blade.php"
+			],
+			[
+				"manage",
+				"resources\\views\\management\\edit.blade.php"
+			],
+			[
+				"edi",
+				"resources\\views\\users\\edit.blade.php"
+			],
+			[
+				"usercp",
+				"app\\Http\\Controllers\\UserController.php"
+			],
+			[
+				"val",
+				"app\\Validation.php"
+			],
+			[
+				"vali",
+				"app\\Validation.php"
+			],
+			[
+				"v",
+				"app\\Validation.php"
+			],
+			[
+				"profile",
+				"app\\Http\\Controllers\\ProfileController.php"
+			],
+			[
+				"manaed",
+				"resources\\views\\management\\edit.blade.php"
+			],
+			[
+				"managinde",
+				"resources\\views\\management\\index.blade.php"
+			],
+			[
+				"app-g",
+				"resources\\views\\layouts\\app-guest.blade.php"
+			],
+			[
+				"app-us",
+				"resources\\views\\layouts\\app-user.blade.php"
+			],
+			[
+				"usersinde",
+				"resources\\views\\users\\index.blade.php"
+			],
+			[
+				"management",
+				"resources\\views\\management\\index.blade.php"
+			],
+			[
+				"merchantsinde",
+				"resources\\views\\merchants\\index.blade.php"
+			],
+			[
+				"app-u",
+				"resources\\views\\layouts\\app-user.blade.php"
+			],
+			[
+				"rou",
+				"app\\Http\\routes.php"
+			],
+			[
+				"homec",
 				"app\\Http\\Controllers\\HomeController.php"
 			],
 			[
-				"fo",
-				"resources\\views\\questions\\partials\\form.blade.php"
+				"mobileapicontroller",
+				"app\\Http\\Controllers\\MobileApiController.php"
 			],
 			[
-				"app.b",
-				"resources\\views\\app.blade.php"
+				"mobile",
+				"app\\Http\\Controllers\\MobileApiController.php"
 			],
 			[
-				"questuio",
-				"vendor\\symfony\\console\\Symfony\\Component\\Console\\Question\\Question.php"
+				"autlo",
+				"vendor\\composer\\autoload_classmap.php"
 			],
 			[
-				"questions",
-				"database\\migrations\\2015_04_14_011535_create_questions_table.php"
+				"mobil",
+				"app\\Http\\Controllers\\MobileApiController.php"
 			],
 			[
-				"login",
-				"resources\\views\\auth\\login.blade.php"
+				"rout",
+				"app\\Http\\routes.php"
+			],
+			[
+				"autload",
+				"vendor\\composer\\autoload_classmap.php"
+			],
+			[
+				"autol",
+				"vendor\\composer\\autoload_classmap.php"
+			],
+			[
+				"compile",
+				"config\\compile.php"
+			],
+			[
+				"autoloa",
+				"bootstrap\\autoload.php"
+			],
+			[
+				"migrator",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Migrations\\Migrator.php"
+			],
+			[
+				"register",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Auth\\RegistersUsers.php"
+			],
+			[
+				"reg",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Auth\\RegistersUsers.php"
+			],
+			[
+				"regis",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Auth\\RegistersUsers.php"
+			],
+			[
+				"loglara",
+				"storage\\logs\\laravel.log"
+			],
+			[
+				"com",
+				"composer.json"
 			],
 			[
 				"authco",
 				"app\\Http\\Controllers\\Auth\\AuthController.php"
 			],
 			[
-				"wecom",
+				"auth",
+				"app\\Http\\Controllers\\Auth\\AuthController.php"
+			],
+			[
+				"migrationus",
+				"database\\migrations\\2016_02_01_010427_create_users_table.php"
+			],
+			[
+				"pos",
+				"app\\models\\Pos.php"
+			],
+			[
+				"lo",
+				"resources\\views\\auth\\login.blade.php"
+			],
+			[
+				"app.b",
+				"resources\\views\\layouts\\app.blade.php"
+			],
+			[
+				"wel",
 				"resources\\views\\welcome.blade.php"
 			],
 			[
-				"serviceprovider",
-				"vendor\\laravel\\framework\\src\\Illuminate\\Support\\ServiceProvider.php"
+				"reset.b",
+				"resources\\views\\auth\\passwords\\reset.blade.php"
 			],
 			[
-				"sess",
-				"config\\session.php"
+				"app-",
+				"resources\\views\\layouts\\app-guest.blade.php"
 			],
 			[
-				"loginco",
-				"app\\Http\\Controllers\\LoginController.php"
+				"login.bl",
+				"resources\\views\\auth\\login.blade.php"
 			],
 			[
-				"session",
-				"config\\session.php"
+				"comp",
+				"composer.json"
 			],
 			[
-				"common",
-				"resources\\views\\common.blade.php"
+				"pass",
+				"app\\Http\\Controllers\\Auth\\PasswordController.php"
 			],
 			[
-				"comm",
-				"app\\Commands\\Command.php"
-			],
-			[
-				"choo",
-				"resources\\views\\choosetype.blade.php"
-			],
-			[
-				"regis",
-				"resources\\views\\auth\\register.blade.php"
-			],
-			[
-				"illuminate/http/response",
-				"vendor\\laravel\\framework\\src\\Illuminate\\Http\\Response.php"
-			],
-			[
-				"response",
-				"vendor\\laravel\\framework\\src\\Illuminate\\Http\\Response.php"
-			],
-			[
-				"service",
-				"config\\services.php"
-			],
-			[
-				"abstractprovider",
-				"vendor\\laravel\\socialite\\src\\Two\\AbstractProvider.php"
-			],
-			[
-				"server/",
-				"vendor\\league\\oauth1-client\\src\\Client\\Server\\Twitter.php"
-			],
-			[
-				"gettokencredentials",
-				"vendor\\league\\oauth1-client\\src\\Client\\Credentials\\TokenCredentials.php"
-			],
-			[
-				"league/oauth1/client/credentials",
-				"vendor\\league\\oauth1-client\\src\\Client\\Credentials\\Credentials.php"
-			],
-			[
-				"twitterprovider",
-				"vendor\\laravel\\socialite\\src\\One\\TwitterProvider.php"
-			],
-			[
-				"socialite",
-				"vendor\\laravel\\socialite\\src\\SocialiteManager.php"
-			],
-			[
-				"servi",
-				"config\\services.php"
-			],
-			[
-				"ser",
-				"config\\services.php"
-			],
-			[
-				"services",
-				"config\\services.php"
-			],
-			[
-				"createus",
-				"database\\migrations\\2014_10_12_000000_create_users_table.php"
-			],
-			[
-				"app.php",
+				"app.",
 				"config\\app.php"
 			],
 			[
-				"flash/m",
-				"vendor\\laracasts\\flash\\src\\views\\message.blade.php"
+				"pr",
+				"app\\Http\\Controllers\\ProfileController.php"
 			],
 			[
-				"flash/me",
-				"vendor\\laracasts\\flash\\src\\views\\message.blade.php"
+				"login",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Auth\\Events\\Login.php"
 			],
 			[
-				"flas",
-				"vendor\\laracasts\\flash\\src\\Laracasts\\Flash\\FlashNotifier.php"
+				"ed",
+				"resources\\views\\users\\edit.blade.php"
 			],
 			[
-				"flash/messa",
-				"vendor\\laracasts\\flash\\src\\views\\message.blade.php"
+				"pas",
+				"app\\Http\\Controllers\\Auth\\PasswordController.php"
 			],
 			[
-				"flashnot",
-				"vendor\\laracasts\\flash\\src\\Laracasts\\Flash\\FlashNotifier.php"
+				"resetspasswords",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Auth\\ResetsPasswords.php"
 			],
 			[
-				"flash",
-				"vendor\\laracasts\\flash\\src\\Laracasts\\Flash\\FlashNotifier.php"
+				"passwo",
+				"app\\Http\\Controllers\\Auth\\PasswordController.php"
 			],
 			[
-				"choosec",
-				"app\\Http\\Controllers\\ChooseController.php"
+				"usec",
+				"app\\Http\\Controllers\\UserController.php"
+			],
+			[
+				"auth/user",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Auth\\User.php"
+			],
+			[
+				"ro",
+				"app\\Http\\routes.php"
+			],
+			[
+				"profilec",
+				"app\\Http\\Controllers\\ProfileController.php"
+			],
+			[
+				"app.bl",
+				"resources\\views\\layouts\\app.blade.php"
+			],
+			[
+				"user.p",
+				"app\\User.php"
+			],
+			[
+				"mob",
+				"app\\Http\\Controllers\\MobileApiController.php"
+			],
+			[
+				"usercon",
+				"app\\Http\\Controllers\\UserController.php"
+			],
+			[
+				"table",
+				"resources\\views\\html\\tables-data.html"
+			],
+			[
+				"register.b",
+				"resources\\views\\auth\\register.blade.php"
+			],
+			[
+				"regi",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Auth\\RegistersUsers.php"
+			],
+			[
+				"pa",
+				"app\\Http\\Controllers\\PaymeadminController.php"
+			],
+			[
+				"register.bl",
+				"resources\\views\\auth\\register.blade.php"
+			],
+			[
+				"contro",
+				"app\\Http\\Controllers\\Controller.php"
+			],
+			[
+				"inde",
+				"public\\index.php"
+			],
+			[
+				"home",
+				"app\\Http\\Controllers\\HomeController.php"
+			],
+			[
+				"table.htm",
+				"resources\\views\\html\\tables-ajax.html"
+			],
+			[
+				"table-aja",
+				"public\\js\\pages\\tables-ajax.js"
+			],
+			[
+				"table.ht",
+				"resources\\views\\html\\tables-data.html"
+			],
+			[
+				"paym",
+				"app\\Http\\Controllers\\PaymeadminController.php"
+			],
+			[
+				"entrustrole",
+				"vendor\\zizaco\\entrust\\src\\Entrust\\EntrustRole.php"
+			],
+			[
+				"use",
+				"app\\User.php"
+			],
+			[
+				"kern",
+				"app\\Http\\Kernel.php"
+			],
+			[
+				"zizaco/entrust/middleware/entrustrole",
+				"vendor\\zizaco\\entrust\\src\\Entrust\\Middleware\\EntrustRole.php"
 			]
 		],
 		"width": 0.0
@@ -1454,7 +1502,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 374.0,
+	"side_bar_width": 326.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
